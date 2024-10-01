@@ -1,0 +1,3412 @@
+ACADEMIA DA SAÚDE
+Sistema de Monitoramento do Programa Academia da Saúde
+O Sistema é parte da estratégia para acompanhamento e apoio a implantação e implementação do Programa pelos municípios, em conformidade com as diretrizes da Política Nacional de Promoção da Saúde, da Política de Atenção Básica e com os objetivos e as diretrizes do Programa Academia da Saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE -SAS
+Unidade Responsável: DEPARTAMENTO DE ATENÇÃO BÁSICA - DAB
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+AEQ
+Avaliação Externa da Qualidade
+O Sistema é parte da estratégia para acompanhamento e apoio a implantação e implementação do Programa pelos municípios, em conformidade com as diretrizes da Política Nacional de Promoção da Saúde, da Política de Atenção Básica e com os objetivos e as diretrizes do Programa Academia da Saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE -SAS
+Unidade Responsável: Departamento de Atenção Hospitalar e Urgência - DAHU
+Linguagem de Programação: ANGULAR
+Banco de Dados: ORACLE 11G
+
+AGENDA-MS
+Sistema de Agenda do Ministério da Saúde
+O sistema é oriundo do sistema AGENDATEL e se constitui na ferramenta [cliente-servidor] que permite o acompanhamento de agenda, compromissos e ligações telefônicas de autoridades do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: GM - Gabinete do Ministro
+Unidade Responsável: GM - Gabinete do Ministro
+Linguagem de Programação: .NET
+Banco de Dados: ORACLE 11G
+
+APAC
+Autorização de Procedimento de Alta Complexidade
+Transcrição dos dados referentes aos atendimentos autorizados de alta complexidade (Autorização de Procedimento de Alta Complexidade), por paciente. Dispõe de banco de dados do tipo relacional, composto por um conjunto de tabelas que viabilizam o controle administrativo da produção ambulatorial. Esse banco armazena dados sobre produção e cadastro de usuários e de estabelecimentos de saúde autorizados a realizar procedimentos de média e de alta complexidade que necessitam de autorização.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE -SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: CLIPPER
+Banco de Dados:
+
+APP - MEDSUSAPP - MEDSUS
+O Ministério da Saúde desenvolveu o MedSUS, um aplicativo que apresenta a lista de medicamentos indicados pelo SUS, disponíveis na Relação Nacional de Medicamentos Essenciais (RENAME). A RENAME é um instrumento norteador para a promoção do uso racional de medicamentos e para a qualiﬁcação da gestão do SUS. As informações inseridas neste aplicativo, sobre os medicamentos, foram obtidas do Formulário Terapêutico Nacional (FTN), dos Protocolos Clínicos e Diretrizes Terapêuticas (PCDT), de guias e manuais publicados pelo Ministério da Saúde e do banco de dados de medicamentos registrados no Brasil, da Agência Nacional de Vigilância Sanitária (ANVISA).
+Classiﬁcação: SAÚDE
+Tipo do Produto: MOBILE
+Secretaria: Secretaria De Ciência, Tecnologia e Insumos Estratégicos - SCTIE
+Unidade Responsável: Secretaria De Ciência, Tecnologia e Insumos Estratégicos - SCTIE
+Linguagem de Programação:
+Banco de Dados:
+
+APURASUS
+Sistema de Apuração e Gestão de Custos do SUS
+O Sistema de Apuração e Gestão de Custos do SUS (APURASUS) é um sistema de informação desenvolvido pelo Ministério da Saúde para auxiliar no processo de apuração e gestão de custos em distintas Unidades de Saúde do SUS, de forma padronizada e estruturada.
+Trata-se de sistema web, de livre acesso. Tem como grande diferencial a capacidade de permitir a sua ersonalização, de forma a se adaptar às características próprias de Unidadesde Saúde de diferentes perﬁ s em termos de tamanho, estrutura e serviços produzidos na atenção e cuidado à saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria Executiva - SE
+Unidade Responsável: DESID - Departamento de Economia da Saúde, Investimento e Desenvolvimento
+Linguagem de Programação: HTML
+Banco de Dados: ORACLE 11G
+
+BDDSIM
+Banco de Divulgação dos Dados sobre Mortalidade
+O projeto tem como ﬁnalidade, apoiar a Secretaria de Vigilância Sanitária a solucionar inconsistências nos dados da Declaração de Óbito (SIM) antes da divulgação, possuindo rotinas de veriﬁcação de inconsistências que permitirão construir indicadores e processar análises epidemiológicas que contribuam para a eﬁciência da gestão em saúde. Com o banco de divulgação, pretende-se analisar e corrigir o dado antes da sua disponibilização ampliando as possibilidades de divulgação em painéis de monitoramento de outros agravos estratégicos (sejam estes produtos disponibilizados na forma tradicional, com arquivos exportados da base Oracle, em txt, dbf ou csv, seja por meio de aplicações conectadas diretamente no banco de dados).
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria de Vigilância em Saúde - SVS
+Unidade Responsável: DANTPS - Departamento de Vigilância de Doença e Agravos Não Tramissíveis e Promoção da Saúde
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+BDNAIH
+Banco de Dados Nacional de AIHS
+Aplicativo responsável pela manutenção da base de dados das AIHs coletadas no país. Permite acompanhar o estágio das remessas do SIHD que são enviadas pelos Municípios em Gestão Plena e Estados da Federação ao Datasus.
+Classiﬁcação: SAÚDE
+Tipo do Produto: BANCO DE DADOS
+Secretaria: Secretaria de Atenção à Saúde - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: ColdFusion
+Banco de Dados: ORACLE 11 G
+
+BDNSIA
+Carga da Produção Ambulatorial
+É um módulo do SIASUS responsável pela carga no banco de dados do DATASUS, das remessas estaduais e municipais referentes a produção ambulatorial, realizando criticas de segurança e de cadastro de numero de autorização de procedimentos de alta complexidade (APAC). Benefícios: Controle das remessas de atendimentos ambulatoriais. Funcionalidades: Acompanhe as remessas; Relatórios de Entrega de Remessas.
+Classiﬁcação: SAÚDE
+Tipo do Produto: BANCO DE DADOS
+Secretaria: Secretaria de Atenção à Saúde - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+BFA
+Sistema do Bolsa Família
+Sistema de Acompanhamento e registro das condicionalidades de saúde do público alvo do PBF.
+O Sistema de Acompanhamento dos Beneﬁciários do Programa Bolsa Família no escopo Saúde -BFA possibilita que os municípios
+realizem o acompanhamento das condicionalidades da saúde e a avaliação nutricional dos beneﬁciários do Programa Bolsa
+Família. Permite, ainda, que os gestores do Programa monitorem as ações realizadas pelos municípios.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria de Atenção à Saúde - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+BLOGSAUDE
+Blog da Saúde
+Blog do Ministério da Saúde com estrutura permite a atualização rápida a partir de acréscimos dos chamados artigos, ou posts.
+Estes são, em geral, organizados de forma cronológica inversa, tendo como foco a temática proposta do blog, podendo ser escritos
+por um número variável de pessoas, de acordo com a política do blog. (CMS Joomla/PHP/MySql)
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: Gabinete do Ministro - GM
+Unidade Responsável: ASCOM - Assessoria de Comunicação Social
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+
+BPA
+Boletim de Produção Ambulatorial
+Sistema descentralizado utilizado mensalmente pelas Unidades Prestadoras de Serviço para transcrição dos quantitativos dos
+atendimentos prestados nos ambulatórios (Boletim de Produção Ambulatorial - BPA), criticando-os conforme regras
+estabelecidas em portarias. O aplicativo de capta os procedimentos que não exigem autorização prévia, do atendimento
+ambulatorial. São registrados os procedimentos de atenção básica (AB) e média complexidade (MC). É composto de dois
+módulos de captação: BPA consolidado (BPA-C) e BPA individualizado (BPA-I) . BPA consolidado (BPA-C): aplicativo no
+qual se registram os procedimentos realizados pelos prestadores de serviços do SUS, no âmbito ambulatorial de forma
+agregada.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria de Atenção à Saúde - SAS
+Unidade Responsável: SAS - Secretaria de Atenção à Saúde
+Linguagem de Programação:
+Banco de Dados: FIREBIRD
+
+BPS
+Banco de Dados de Preços em Saúde
+O sistema BPS - Banco de Preços em Saúde do Departamento de Economia da Saúde, da Secretaria Executiva do Ministério da
+Saúde (MS) visa obter uma redução de gastos com produtos e serviços em saúde nas aquisições efetivadas por instituições do SUS,
+através do repasse de dados relativos as compras efetuadas pelas instituições de saúde pública ou privadas.
+Em termos econômicos, trata-se do aperfeiçoamento do mercado por meio da redução da assimetria de informações entre
+demandantes e ofertantes. O registro das compras efetuadas pelas instituições de saúde, referentes a medicamentos, materiais
+médico-hospitalares e gases medicinais poderão ser cruzados, revelando assim as melhores opções de compras para as
+instituições.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria Executiva - SE
+Unidade Responsável: DESID - Departamento de Economia da Saúde, Investimento e Desenvolvimento
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+BSE
+Boltem de Serviços
+Instituído pela Portaria Portaria n.º 81, de 11 de julho de 2001, da Secretaria-Executiva, o BSE é uma publicação semanal da
+Subsecretaria de Assuntos Administrativos do Ministério da Saúde, destinada a dar publicidade aos atos administrativos e
+normativos, de caráter institucional interno, nos termos do que estabelece a legislação vigente.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria Executiva - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+BUNDLE
+BUNDLE
+Aplicativo Mobile multiplataforma para acionamento dos demais apps da plataforma DATASUS. Atua como uma interface
+centralizadora, como aplicativo da Receita Federal e Banco do Brasil.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: MOBILE
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SECRETARIA EXECUTIVA - SE
+Linguagem de Programação:
+Banco de Dados:
+
+CADSUS SIMPLIFICADO
+Cadastramento Único de Saúde
+O cadastramento consiste no processo por meio do qual são identiﬁcados os usuários do Sistema Único de Saúde e seus domicílios
+de residência.
+Por meio do cadastro será possível a emissão do Cartão Nacional de Saúde para os usuários e a vinculação de cada usuário ao
+domicílio de residência, permitindo uma maior eﬁciência na realização das ações de natureza individual e coletiva desenvolvidas
+nas áreas de abrangência dos serviços de saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável:
+Linguagem de Programação:
+Banco de Dados:
+
+
+CARTA SUS
+Carta SUS
+A Carta SUS constitui-se de uma pesquisa de avaliação (cartão-resposta) em que são feitas breves perguntas sobre o atendimento
+que o cidadão realizou pelo Sistema Único de Saúde. Através dessa pesquisa pode-se identiﬁcar a qualidade dos proﬁssionais e
+prestadores dos serviços públicos de saúde sob a ética do cidadão que utiliza esses serviços.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria de Gestão Estratégica e Participativa - SGEP
+Unidade Responsável: DENASUS - Departamento Nacional de Auditoria do SUS
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+CED
+Coordenação de Estratégia de Dados
+Sistema de controle de demandas abertas para a equipe de banco de dados, GAAD.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: Secretaria Executiva - SE
+Unidade Responsável:
+Linguagem de Programação:
+Banco de Dados: MYSQL 5
+
+CIHA
+Sistema de Comunicação de Internações Hospitalares e Ambulatoriais
+Acompanhamento das ações e serviços de saúde executados por pessoas naturais ou jurídicas, de direito público ou privado
+provendo informações dos pacientes cuja atenção é custeada por planos e seguros privados de assistência à saúde; Registro dos
+atendimentos ambulatoriais, não informados no Sistema de Informações Ambulatoriais do SUS (SIA/SUS).
+Classiﬁcação:SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO A SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: COLDFUSION
+Banco de Dados: ORACLE 11G
+
+CIHA 02
+Sistema de Comunicação de Internações Hospitalares e Ambulatoriais
+Permite o acompanhamento das ações e serviços de saúde executados por pessoas naturais ou jurídicas, de direito público ou
+privado provendo informações dos pacientes cuja atenção é custeada por planos e seguros privados de assistência à saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO A SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: COLDFUSION
+Banco de Dados: FIREBIRD
+
+CNES
+Cadastro Nacional de Estabelecimentos de Saúde
+Cadastrar todos os Estabelecimentos de Saúde: Públicos, Conveniados e Privados, seja pessoa física ou jurídica, que realiza
+qualquer tipo de serviço de atenção à Saúde no âmbito do território Nacional. Propiciar ao gestor público ou privado, de forma
+simples o conhecimento real de sua rede assistencial, bem como sua capacidade instalada, tornando-se uma ferramenta de apoio
+para a tomada de decisão e planejamento de ações, baseada na visibilidade do mapeamento assistencial de saúde de seu território.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO A SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+COAGULOPATIAS
+Coagulopatias WEB
+Sistema responsável pelo cadastro uniﬁcado de pacientes portadores de coagulopatias hereditárias e distribuição de
+medicamentos para infusão, no Brasil.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO A SAÚDE - SAS
+Unidade Responsável: Departamento de Atenção Hospitalar e Urgência - DAHU
+Linguagem de Programação:
+Banco de Dados:
+
+CONSULTA PÚBLICA
+Cosulta Pública
+A ferramenta de consulta pública abre a possibilidade de uma ampla discussão sobre diversos temas na área de saúde, permitindo
+que você participe e contribua na construção do sistema de saúde brasileiro. Por meio da consulta publica o processo de
+elaboração do documento é democrático e transparente para a sociedade.
+Classiﬁcação:ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: ASCOM - Assessoria de Comunicação Social
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+CSPU WEB
+Cadasro de Sistemas e ermisões aos Usuarios
+O Cadastro de Sistemas e Permissões de Usuários (CSPUWEB) tem por objetivo cadastrar e gerenciar as permissões de acessos aos
+sistemas. Serão cadastrados os gestores dos sistemas informatizados. Cada um desses gestores terá acesso ao cadastro de
+usuários de seus sistemas. Este sistema funciona em ambiente web (internet/intranet), permitindo uma integração mais ampla por
+não possuir dependência de plataforma, sendo necessário somente um computador conectado a internet.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+DSTAIDS APP VIVA BEM
+Viva Bem
+O que:Aplicativo para Monitoramento e melhora da adesão de PVHA.
+Aplicativo para smartphones que disponibilize de uma forma prática, lúdica, interativa e intuitiva o monitoramento de retiradas e
+tomadas de medicamentos antirretrovirais para melhora da adesão de PVHA Pessoa Vivendo com HIV e Aids para uso dos
+usuários, com perﬁs identiﬁcados.
+Porque:Para facilitar o acompanhamento das retiradas de medicamentos antirretrovirais.
+Classiﬁcação: SAÚDE
+Tipo do Produto: MOBILE
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação:
+Banco de Dados:
+
+DSTAIDS BANCOCV
+Sistema de Cadastro de Currículos do departamento DST, Aids e Hepatites Virais
+Sistema que surgiu para cadastrar e manter currículos de proﬁssionais ligados aos interesses do departamento DST, Aids e
+Hepatites Virais.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: MYSQL 5
+
+DSTAIDS-DIAG
+Sistema de Controle de Diagnóstico Laboratorial
+A necessidade de avaliar o desempenho individual dos laboratórios mediante a precisão e a acuracidade dos resultados, quando
+comparados à média geral obtida por todos os laboratórios incluídos na Rede Nacional de Diagnóstico do PN-DST/AIDS.
+Porque:
+Para facilitar a avaliação do desempenho dos laboratórios.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados:
+
+DSTAIDS-DOACAO
+Sistema de Controle de Doação de Medicamentos
+O Sistema de Doação de Medicamentos dá suporte às doações de medicamentos antirretrovirais feitas pelo Governo Brasileiro no
+âmbito da Rede Laços Sul-Sul.
+Os medicamentos elegíveis para doação são os antirretrovirais utilizados no tratamento de HIV/aids produzidos no Brasil, que
+coincidam com o esquema terapêutico praticado pelo país solicitante e cuja doação não afete o abastecimento nacional.
+Porque:
+Para facilitar a gestão das doações de medicamentos para tratamento do HIV/aids.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: PHP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-EDITAIS
+Sistema de Editais
+A necessidade de gestão de editais do Departamento DST, Aids e Hepatites Virais promoveu a criação do sistema Editais.
+Para facilitar a avaliação do desempenho dos laboratórios.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-FLUIDO ORAL
+Sistema de Cadastro das Pessoas para o teste de HIV através do método de fluido oral
+O sistema tem o objetivo de manter o cadastro das pessoas que fazem o teste de HIV usando o método de ﬂuido oral
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação:
+Banco de Dados: SQL SERVER
+
+DSTAIDS-LABGERENCIA
+Sistema de Relatórios Gerencias dos exames laboratoriais
+A necessidade de emitir relatórios gerencial onde auxilia no controle de da distribuição de insumos de laboratório.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-LAUDO
+Sistema de emissão de laudos
+A necessidade de emissão de laudos de CD4 e Carga Viral pelos médicos, gerados pelo SISCEL motivou a criação do sistema
+LAUDO.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-PAM
+Sistema de incentivo para programação e metas
+A informatização do ﬂuxo de solicitação de qualiﬁcação dos estados e municípios ao Incentivo via Fundo a Fundo e respectivo
+pagamento dos recursos junto as necessidade de:
+- Informatizar o ﬂuxo de digitação, aprovação e disponibilização do Plano de Ações e Metas dos Estados e Municípios;
+- Armazenar as informações sobre os indicadores relacionados a DST/HIV e aids;
+- Armazenar as informações relativas aos gastos físicos e ﬁnanceiros dos estados e municípios qualiﬁcados.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-PCDT-ADULTOS
+Protocolo Clínico e Diretrizes Terapêuticas para Manejo da Infecção pelo HIV em Adultos
+Protocolo Clínico e Diretrizes Terapêuticas para Manejo da Infecção pelo HIV em Adultos - Aplicativo para smartphones que
+disponibilize de uma forma prática e intuitiva o PCDT - Protocolo Clínico¿ e Diretrizes Terapêuticas para manejo da infecção pelo
+HIV em Adultos - para consulta pelos proﬁssionais que atendem pacientes com HIV e AIDS, e que ﬁque disponível também em
+modo off-line depois de instalado.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação:
+Banco de Dados:
+
+DSTAIDS-PCDT-CA
+Protocolo Clínico e Diretrizes Terapêuticas para manejo da infecção pelo HIV em Crianças e Adolescentes
+Aplicativo para smartphones que disponibilize de uma forma prática e intuitiva o PCDT - Protocolo Clínico e Diretrizes
+Terapêuticas para manejo da infecção pelo HIV em Crianças e Adolescentes - para consulta pelos proﬁssionais que atendem
+pacientes com HIV e AIDS, e que ﬁque disponível também em modo off-line depois de instalado.
+Classiﬁcação: SAÚDE
+Tipo do Produto: MOBILE
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-PORTAL AIDS
+Portal web de informações sobre AIDS do departamento DST-AIDS
+A necessidade de emissão de laudos de CD4 e Carga Viral pelos médicos, gerados pelo SISCEL motivou a criação do sistema
+LAUDO.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: FIREBIRD
+
+DSTAIDS-PV
+Sistema de Programação de Viagens
+Sistemas responsável por controlar as programações de viagens do departamento de DST, Aids e Hepatites Virais.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados:
+
+DSTAIDS-QUALILAB
+Sistema de controle da qualidade dos laboratórios executores dos exames CD4 e Carga Viral
+O sistema tem por objetivo executar o controle de qualidade dos laboratórios executores dos exames CD4 e Carga Viral.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados:
+
+DSTAIDS-SCALAB
+Sistema de Controle de Acesso Laboratorial
+Gerencia as informações cadastrais dos Laboratórios da rede pública de saúde, Ministério da Saúde, Coordenações Estaduais e
+Municipais, Coordenação de Atenção Básica e DSEIS, e controla o cadastro de permissões e níveis de acesso aos sistemas
+SISLOGLAB, SISCEL, SISGENO e LAB-Gerencial
+Porque:Para facilitar a gestão das ações gerenciais nos sistemas SISLOGLAB, SISCEL, SISGENO e LAB-Gerencial.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-SGR
+Sistema de Gestão de Repasses
+Mapear e modelar o processo da gestão de repasses fundo a fundo do Componente de Vigilância em Saúde do Bloco de Vigilância
+em Saúde do Ministério da Saúde, buscando identiﬁcar oportunidades de melhoria, com objetivo de baixar custos e otimizar o
+processo atual. Após o mapeamento desenvolver um sistema de controle para a gestão de repasses Fundo a Fundo do Componente
+de Vigilância em Saúde do Bloco de Vigilância em Saúde do Ministério da Saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: POWERBUILDER
+Banco de Dados:
+
+DSTAIDS-SGR-SVS
+Sistema de Gestão de Repasses - SVS
+Mapear e modelar o processo da gestão de repasses fundo a fundo do Componente de Vigilância em Saúde do Bloco de Vigilância
+em Saúde do Ministério da Saúde, buscando identiﬁcar oportunidades de melhoria, com objetivo de baixar custos e otimizar o
+processo atual. Após o mapeamento desenvolver um sistema de controle para a gestão de repasses Fundo a Fundo do Componente
+de Vigilância em Saúde do Bloco de Vigilância em Saúde do Ministério da Saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação:
+Banco de Dados:
+
+DSTAIDS-SIAIDS
+Sistema de Controle de Financiamento do Banco Mundial para AIDS
+Sistema motivado pelas necessidades:
+- Registrar o Plano de Ações e Metas Anuais do PN-DST/AIDS;
+- Permitir a execução ﬁnanceira das atividades;
+- Realizar o comprometimento das despesas e suas declarações;
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: POWERBUILDER
+Banco de Dados:
+
+DSTAIDS-SICLOM GER
+Sistema Gerencial de Controle Logístico de Medicamentos
+Executar o controle logístico de medicamentos antirretrovirais, medicamentos de tuberculose (tuberculostáticos) e insumos de
+prevenção. Também fazer o ressuprimento dos medicamentos antiretrovirais.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: PHP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-SICLOM OPE
+Sistema Operacional de Controle Logístico de Medicamentos
+Executar o controle logístico de medicamentos antirretrovirais, medicamentos de tuberculose (tuberculostáticos) e insumos de
+prevenção. Também fazer o ressuprimento dos medicamentos antirretrovirais.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: PHP
+Banco de Dados: SQS SERVER
+
+DSTAIDS-SIEST
+Sistema de Controle dos Insumos Estratégicos
+Necessidade do acompanhamento da situação dos insumos estratégicos do departamento.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: PHP
+
+
+DSTAIDS-SIGA
+Sistema Gerencial Administrativo
+Sistema utilizado para gerenciar os contratos dos colaboradores e Controle Financeiro dos Pagamentos de documentos, como:
+Fatura/Nota Fiscal, Contratos, Rescisão, Acordo de Subvenção, Carta Acordo e outros, do Departamento de DST, Aids e Hepatites
+Virais.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: PHP
+
+
+DSTAIDS-SIMC
+Sistema de Monitoramento Clínico das pessoas vivendo com HIV
+Monitorar as pessoas que vivem com HIV.
+O que:A necessidade de monitoramento das pessoas que vivem com HIV motivou a criação do sistemas SIMC.
+Porque:Para facilitar a gestão do monitoramento das pessoas que vivem com HIV.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: PHP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-SIMOP
+Sistema de Monitoramento de Projetos
+A necessidade de monitoramento dos projetos desenvolvidos pelo departamento DST, Aids e Hepatites Virais motivou a criação
+do sistema SIMOP.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: POWERBUILDER
+Banco de Dados:
+
+DSTAIDS-SISCEL
+Sistema de Controle de Exames Laboratoriais de CD4 e Carga Viral (Legado)
+O que:A necessidade de registro do histórico dos resultados dos exames CD4 e Carga Viral, para futuras análises da eﬁcácia do
+tratamento
+Porque:Para facilitar a gestão dos resultados dos exames CD4 e Carga Viral.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: POWERBUILDER
+Banco de Dados:
+
+DSTAIDS-SISCEL WEB
+Sistema de Controle de Exames Laboratoriais de CD4 e Carga Viral
+O sistema surgiu devido a necessidade de todo portador do vírus HIV necessitar deixar registrado os históricos dos resultados dos
+exames CD4 e Carga Viral, para futuras análises da eﬁcácia do tratamento.
+Esse sistema foi desenvolvido para substituir a antiga plataforma do sistema SISCEL para o ambiente web.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: AJAX
+Banco de Dados: SQL SERVER
+
+DSTAIDS-SISGENO ASP
+Sistemas de Controle de Exames Laboratoriais de Genotipagem
+A necessidade de monitorar os procedimentos laboratoriais de Genotipagem, para avaliação de indicação de mudança de
+tratamento de pacientes em terapia anti-retroviral (TARV), motivaram a criação do sistema SIGENO.
+Para facilitar a gestão do monitoramento dos procedimentos laboratoriais de Genotipagem, para avaliação de indicação de
+mudança de tratamento de pacientes em terapia anti-retroviral (TARV).
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+DSTAIDS-SISLOG ASP
+Sistema de Controle Logistico de Insumos Laboratoriais
+A necessidade de controlar os insumos de laboratórios para a realização dos exames CD4, CV e Genotipagem do HIV, motivaram a
+criação do sistema SISLOG_LAB.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQL SERVER
+
+ECAR-DAF
+Controle, Acompanhamento e Avaliação de Resultados do Departamento de Assistência Farmacêutica
+O que é:
+O sistema tem como objetivo agilizar o processo de controle, acompanhamento e avaliação de resultados para o monitoramento
+das ações da Coordenação Geral de Assistência Farmacêutica Básica.
+Porque:
+Auxiliar a Coordenação Geral de Assistência Farmacêutica Básica na sua atribuição de monitorar as ações desenvolvidas pela
+área.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS -SCTIE
+Unidade Responsável: DAF - Departamento de Assistência Farmacêutica e Insumos Estratégicos
+Linguagem de Programação: JAVA
+Banco de Dados: POSTGREESQL
+
+e-Gestor AB
+Atenção Básica
+O e-Gestor AB (Atenção Básica) é uma plataforma WEB para centralização dos acessos e perﬁs dos sistemas da Atenção Básica AB, bem como um aglutinador de informações próprias para os gestores estaduais e municipais.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE ATENÇÃO A SAÚDE- SAS
+Unidade Responsável: Secretaria de Atenção à Saúde - SAS
+Linguagem de Programação:
+Banco de Dados:
+
+
+EMENDAS PARLAMENTARES
+Sistema de Emendas Parlamentares
+Sistema de Emendas Parlamentares possibilita:
+· Gerenciar emendas parlamentares, com suas respectivas indicações, exibindo de forma detalhada as propostas apresentadas
+pelos proponentes;
+· Permitir acesso as informações via dispositivos móveis;
+· Permitir o acesso ao sistema nos principais navegadores disponíveis no mercado.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+E-ORG
+Sistema de Gestão de Estrutura Organizacional
+Sistema responsável pelo gerenciamento da estrutura organizacional do Ministério da Saúde. O E-Org permite manter as
+informações das unidades administrativas formais e informais do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+E-SUS GESTOR
+Módulo de Planejamento
+O que é:
+O sistema tem como objetivo agilizar o processo de controle, acompanhamento e avaliação de resultados para o monitoramento
+das ações da Coordenação Geral de Assistência Farmacêutica Básica.
+Porque:
+Auxiliar a Coordenação Geral de Assistência Farmacêutica Básica na sua atribuição de monitorar as ações desenvolvidas pela
+área.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DEMAS - Departamento de Monitoramento e Avaliação do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+E-SUS SAMU
+Serviço de Atendimento Móvel de Urgência do SUS
+Sistema utilizado para registro de ocorrências médicas que, baseado na avaliação do médico regulador, podendo enviar ou não
+uma ambulância. Também faz o controle logístico das ambulâncias para que o maior número possível de ocorrências sejam
+atendidas em tempo mínimo.Sistema usando tecnologia cliente/servidor, com interface WEB, de uso local e acesso a banco de
+dados em rede local.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO A SAÚDE- SAS
+Unidade Responsável: DAHU - Departamento de Atenção Hospitalar e Urgência
+Linguagem de Programação: .NET
+Banco de Dados:
+
+EVENTOS
+Apoio a Eventos Científicos em Saúde
+Sistema de Emendas Parlamentares possibilita:
+· Gerenciar emendas parlamentares, com suas respectivas indicações, exibindo de forma detalhada as propostas apresentadas
+pelos proponentes;
+· Permitir acesso as informações via dispositivos móveis;
+· Permitir o acesso ao sistema nos principais navegadores disponíveis no mercado.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação: COLDFUSION
+Banco de Dados:
+
+EVENTOS DAB
+Sistema de Eventos da AB (Atenção Básica)
+Sistema de cadastro de trabalhos e artigos cientíﬁcos, bem como portal de divulgação do evento vigente a época.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+EVENTOS JAVA
+Chamada de Apoio a Eventos Cientifícos em Saúde
+Dissemina novos conhecimentos e tecnologias além garantir maior intercambio cientíﬁco entre pesquisadores e gestores da área
+da saúde. Criada desde, 2003, a Chamada faz parte do fomento a produção cientiﬁca nos estados brasileiros de acordo com as
+necessidades locais, para promover melhorias para a saúde da população, uma das ações do Departamento de Ciência e Tecnologia
+da Secretaria de Ciência, Tecnologia e Insumos Estratégicos do Ministério da Saúde (Decit/SCTIE/MS).
+A Chamada Pública de Apoio a Eventos Cientíﬁcos em Saúde é organizada pela Coordenação-Geral de Gestão de Conhecimento
+do Decit/SCTIE/MS.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CI~ENCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+EXPOMAN
+SINAN Exportador Nacional Manual
+Sistema de rotinas de exportação manual que permite aos usuários construir indicadores e processar análises epidemiológicas que
+contribuam para a eﬁciência da gestão em saúde, através dos dados de Notiﬁcação de Agravos da base de dados DBSINAN.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+FARMACIA-POPULAR
+Sistema de Co-Pagamento para Expansão da Farmácia Popular do Brasil
+O Programa Farmácia Popular do Brasil vem a ser uma iniciativa do Governo Federal que cumpre uma das principais diretrizes da
+Política Nacional de Assistência Farmacêutica. O Sistema permite que as Farmácias/Drogarias cadastradas no programa realizem
+a dispensação de medicamentos para as patologias: hipertensão, asma e diabetes (Programa saúde não tem preço) ; Venda
+subsidiada de medicamentos para as patologias: glaucoma, rinite, doença de parkson, osteoporose, dislipidemia e inﬂuenza A
+(H1N1) com um desconto de até 90% sobre o preço praticado no mercado. Além desses medicamentos, também são subsidiados
+medicamentos para Anticoncepção e apresentações de fralda geriátrica.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DAF - Departamento de Assistência Farmacêutica e Insumos Estratégicos
+Linguagem de Programação:
+Banco de Dados:
+
+FIESMED
+Fundo de Financiamento Estudantil Medicina
+Sistema que gerencia solicitações de abatimento na divida do FIES (Programa de Financiamento Estudantil de Ensino Superior do
+MEC) aos Proﬁssionais Médicos que possuem cadastro na Base Nacional do Cadastro Nacional de Estabelecimentos de Saúde CNES e atendem aos critérios para receber o beneﬁcio.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA -SGTES
+Unidade Responsável: DEGES - Departamento de Gestão da Educação na Saúde
+Linguagem de Programação: AJAX
+Banco de Dados: ORACLE 11G
+
+FNS CNV PRORROGACAO
+Sistema de Cadastro de Prorrogação de Convênios
+O Sistema de Prorrogação de Convênios foi desenvolvido para facilitar o envio de proposta de prorrogação de prazo de vigência
+dos Convênios celebrados pelo Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA -SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+FNS GESCON
+Gestão de Convênios
+O Gescon é uma solução tecnológica que oferece múltiplas soluções para aprimorar o acompanhamento e o controle de convênios.
+O sistema armazena e fornece informações sobre cadastro de entidades, dirigentes, projetos, prestação de contas, empenhos,
+ordens bancárias e programação ﬁnanceira, por exemplo. O Gescon é considerado hoje uma referência na Administração Pública
+Federal
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+FNS INDICACAO EMENDA
+Sistema de Indicação de Recursos de Emenda para Entidades
+Sistema de Indicação de Recursos de Emenda para Entidades
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+
+FNS INDICACAO OBJETO
+Sistema de Indicação de Recursos para Objetos de Proposta
+O Sistema de Gerenciamento de Objetos e Propostas é um sistema desenvolvido em plataforma web para uso exclusivo das
+entidades, que lhes permite o gerenciamento online.
+Neste módulo a entidade poderá conhecer os programas disponíveis para ﬁnanciamento no exercício ﬁnanceiro de 2019,
+cadastrar propostas, gerenciar e acompanhar todos os recursos recebidos por meio de Convênio, Contrato de Repasse, repasse
+Fundo a Fundo ou Termo de Cooperação.
+Para apresentar proposta de ﬁnanciamento é necessário que a entidade esteja cadastrada no Portal dos Convênios – SICONV e no
+Fundo Nacional de Saúde/MS, devendo manter suas informações sempre atualizadas.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+FNS PARCELAMENTO
+Sistema de Parcelamento de Débitos do Fundo Nacional de Saúde
+Sistema de Parcelamento de Débitos do Fundo Nacional de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA -SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+FNS PORTAL - SITE FNS
+Site do Fundo Nacional de Saúde
+Site do Fundo Nacional de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+
+FNS PROCNV CONVENIO
+Sistema de Cadastramento de Propostas Módulo Convênios
+Cadastramento de Propostas Módulo Convênios.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+
+FNS PROCNV FEDERAL
+Sistema de cadastramento de Propostas para Entidades Federais
+Sistema de cadastramento de Propostas para Entidades Federais
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+FNS PROCNV REFORMULA
+Sistema de Reformulação do Convênios
+O Sistema de Reformulação de Plano de Trabalho foi desenvolvido para facilitar as solicitações de reformulações de planos de
+trabalho dos convênios celebrados com o Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+FNS PROCNV TRONLINE
+Sistema de Cadastro de termo de referência on-line
+Sistema de Cadastro de termo de referência on-line
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+FNS PROFAF ACAD CST
+Sistema de Cadastramento de Propostas da Academia Custeio da Saúde
+Sistema de Cadastramento de Propostas da Academia Custeio da Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+FNS PROFAF EQUIPAMENTO
+Sistema de Cadastramento de Proposta de Equipamento
+Sistema de Cadastramento de Proposta de Equipamento
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+FNS PROFAF PRODUTO
+Sistema de Cadastramento de Proposta Módulo Produto Médico de Uso Único
+Sistema de Cadastramento de Proposta Módulo Produto Médico de Uso Único
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+FNS PROFAF UBS
+Sistema de Cadastramento de Unidade Básica de Saúde
+Sistema de Cadastramento de Unidade Básica de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+FNS PROFAF UPA
+Sistema de Cadastramento de Proposta Módulo Unidades de Pronto Atendimento
+Sistema de Cadastramento de Proposta Módulo Unidades de Pronto Atendimento.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+FNS PROFAF UPA AMPLI
+Sistema de Cadastramento de Unidades de Pronto Atendimento - Ampliação
+Sistema de Cadastramento de Unidades de Pronto Atendimento - Ampliação
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+FNS SIAORC
+Sistema de Acompanhamento Orçamentário do Fundo Nacional de Saúde
+Sistema de Acompanhamento Orçamentário do Fundo Nacional de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+
+FNS SIGEM
+Sistema de Gerenciamento de Equipamentos Médicos
+Sistema de Gerenciamento de Equipamentos Médicos
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SISDP
+Sistema de Documentos com Prazos
+Sistema de Documentos com Prazos
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SIAORC
+Sistema de Acompanhamento Orçamentário do Fundo Nacional de Saúde
+Sistema de Acompanhamento Orçamentário do Fundo Nacional de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SISFIN
+Sistema de Informação Financeira do Fundo Nacional de Saúde
+Sistema de Informação Financeira do Fundo Nacional de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SISGP
+Sistema de Gestão de Postagens
+Sistema de Gestão de Postagens
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SISOBRAS
+Sistema de Acompanhamento de Obras do Fundo Nacional de Saúde
+Sistema de Acompanhamento de Obras do Fundo Nacional de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SISPAG
+Sistema de Pagamentos
+Sistema de Pagamentos
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SISPROFNS
+Sistema de Propostas Fundo a Fundo
+Sistema de Propostas Fundo a Fundo
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS SISTCE DELPHI
+Sistema de Tomadas de Contas Especiais
+Sistema de Tomadas de Contas Especiais
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS WS BGSICONV
+WebService BGSICONV
+WebService BGSICONV
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS WS SIAFI
+WebService SIAFI
+WebService SIAFI
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+FNS BGSICONV
+Bae Gerencial do SICONV
+Sistema com informações gerenciais do SICONV, na qual viabiliza a emissão de despachos/ ofícios internos, emissão de minuta de
+convênios e outros relatórios/ consultas gerenciais.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+FNSDOC
+Sistema de Gestão Documental do FNS
+Para apoiar a estratégia o fundo nacional de saúde. Aplicando modelos de documentos, controle de acesso e backup dos
+documentos eletrônicos.
+A ferramenta deverá contemplar as seguintes funcionalidades, permitindo:
+1. Compartilhamento de arquivos
+2. Auditoria de arquivos.
+3. Padronização de documentos.
+4. Administração de acesso aos documentos
+5. Controle de Versão
+6. Metadados de Pesquisas
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: SHAREPOINT
+Banco de Dados: SQL SERVER
+
+FNS-E-S@D
+Sistema Eletrônico de Assinatura Digital
+Desenvolver e implantar um sistema que seja responsável por fornecer aos seus respectivos envolvidos, assinar digitalmente
+Ofícios, Despachos, Minutas e demais documentos oﬁciais emitidos pelas coordenações e áreas aﬁns do FNS-Fundo Nacional da
+Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 12G
+
+FPO
+Ficha de Programação Orçamentária
+Aplicativo para cadastro eletrônico da programação físico orçamentária dos procedimentos ambulatoriais dos prestadores de
+serviço, realizando criticas referentes a tabela uniﬁcada (SIGTAP) e com o cadastro nacional de estabelecimentos de saúde (CNES),
+gerando um arquivo de exportação para o sistema de informação ambulatorial (SIA). Criado a partir da PT SAS/MS no. 496, de
+30/06/2006, ﬂexibiliza a Programação Fisico-Orçamentaria (FPO) do Sistema de InformaçõesAmbulatoriais do SUS (SIA/SUS).
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável:
+Linguagem de Programação: DELPHI
+Banco de Dados: FIREBIRD
+
+GAL
+Gerenciador de Ambiente Laboratorial
+Informatizar o Sistema Nacional de Laboratórios de Saúde Pública das Redes Nacionais de Laboratórios de Vigilância
+Epidemiológica e Vigilância em Saúde Ambiental, proporcionando o gerenciamento das rotinas, o acompanhamento das etapas
+para realização dos exames/ensaios e a obtenção de relatórios produção / epidemiológicos / analíticos nas redes estaduais de
+laboratórios de saúde pública.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+GFINP
+Gestão Financeira da Publicidade
+O GFINP (Gestão Financeira da Publicidade) é um sistema que permitirá o controle sobre as notas ﬁscais da área de publicidade do
+Ministério da Saúde. Este permitirá o armazenamento de informações de anos diferentes, geração de relatórios, visualização de
+notas em atendimento e concluídas, ou seja, todos os registos relacionados a gastos com publicidade.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA- SE
+Unidade Responsável: CDESI - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS INTERNOS DO DATASUS
+Linguagem de Programação: ANGULAR
+Banco de Dados: ORACLE 11G
+
+GPO
+Gestão de atos e Publicações Oficiais
+Gestão de Publicações Oﬁciais supervisiona e controla as atividades do Gabinete do Ministro da Saúde relacionadas com os atos
+oﬁciais publicados na Imprensa Nacional e no Boletim de Serviço do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: GM - Gabinete do Ministro
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+GRP
+Gestão de Regisros de Preços
+Disponibilizar a relação dos produtos e realizar o acompanhamento das adesões a Ata de Registro de Preço de forma a tornar o
+processo de adesão mais ágil, fornecimento de informações gerenciais e o armazenamento dos resultados para disponibilizá-los às
+entidades interessadas e à sociedade.
+Internalização do Sistema de Gerenciamento de Adesão de Registros de Preço.
+• Sistema foi desenvolvido pelo Fundo Nacional de Desenvolvimento da Educação - FNDE e cedido para instalação no Ministério
+da Saúde;
+• Sofrerá adequações necessárias para servir de ferramenta de gestão e de transparência do processo de adesão aos pregões de
+registro de preços;
+• Este sistema deverá permitir o cadastro de todas as Atas de Registro de Preço do MS, possibilitando a visualização externa
+pelos Estados e a respectiva adesão;
+• O sistema deverá passar por um processo de evolução para possibilitar a internalização com outros sistemas de informações
+disponíveis no MS e outros sistemas externos, a ﬁm de tornar o processo de adesão a Ata de Registros de Preço realmente
+automatizada e transparente.
+Por que:
+Adesões a Ata de Registro de Preço de forma a tornar o processo de adesão mais ágil, fornecimento de informações gerenciais e o
+armazenamento dos resultados para disponibilizá-los às entidades interessadas e à sociedade.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: GABINETE - Gabinete da Secretaria-Executiva
+Linguagem de Programação:
+Banco de Dados:
+
+GSM-NAT
+Gerenciador de Sistema Multicêntrico NAT
+O sistema realiza a liberação e disponibilização dos resultados dos exames NAT para detecção dos vírus HIV e HCV. Utilizado para
+entrada de informação das amostras das bolsas de sangue que serão testadas nos hemocentros coordenadores e mostra dos
+resultados dos exames destas amostras pelas áreas coletoras.
+Sistema repassado para manutenção da CAST para a CTIS em fevereiro/2016.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAHU - Departamento de Atenção Hospitalar e Urgência
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+HÓRUS
+Sistema Nacional de Assistência Farmacêutica
+Para qualiﬁcar a gestão da Assistência Farmacêutica nas três esferas do SUS, e contribuir para a ampliação do acesso aos
+medicamentos e da atenção à saúde prestada à população, o Departamento de Assistência Farmacêutica e Insumos Estratégicos
+do Ministério da Saúde (DAF/SCTIE/MS) apresenta o HÓRUS - Sistema Nacional de Gestão da Assistência Farmacêutica. Esse
+sistema foi inicialmente desenvolvido por meio da parceria estabelecida em 2009 entre DAF/SCTIE, a Secretaria Municipal de
+Saúde de Recife (SMS/PE), a empresa Pública de Informática de Recife (Emprel), o Departamento de Informática do SUS
+(DATASUS/SE), o Conselho Nacional de Secretários de Saúde (CONASS) e o Conselho Nacional de Secretarias Municipais de Saúde
+(CONASEMS)
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: Departamento de Assistência Farmacêutica e Insumos Estratégicos
+Linguagem de Programação:
+Banco de Dados:
+
+I3GEOSAUDE
+I3GEOSAUDE
+Difundir e compartilhar com estados e municípios as tecnologias e os conhecimentos utilizados na estruturação da Sala de Apoio à
+Gestão Estratégica (SAGE) do Ministério da Saúde.
+Agrupar e organizar dados geográﬁcos produzidos pela saúde, possibilitando não só o acesso a mapas, mas também a diversas
+análises provenientes destes dados.
+Difundir o uso do geoprocessamento por meio de uma interface genérica, mas com inúmeras possibilidades de interação entre
+aplicação e usuário, por meio de uma ferramenta apta a atender diversas ﬁnalidades, desde a simples navegação pelos mapas
+temáticos, até sua utilização para análise e apoio à tomada de decisão por gestores.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DEMAS - Departamento de Monitoramento e Avaliação do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+
+INDA
+Infraestrutura Nacional de Dados Abertos
+A Infraestrutura Nacional de Dados Abertos (INDA) é um conjunto de padrões, tecnologias, procedimentos e mecanismos de
+controle necessários para atender às condições de disseminação e compartilhamento de dados e informações públicas no modelo
+de Dados Abertos, em conformidade com o disposto na ePING. A INDA é a política do governo brasileiro para dados abertos.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação:
+Banco de Dados:
+
+INFLUENZA
+Cadastro de Informações de Influenza a (H1N1)
+O que: Trata-se de um sistema desktop instalado nas pontas negociais que é importante para a gestão de dados estatísticos sobre
+agravos de notiﬁcações, possui atualmente mais de 59 doenças/ﬁchas cadastradas, auxiliando a vigilância nacional nas estratégias
+governamentais em suas três esferas de poder.
+Porque: Atender a solicitação da área gestora.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: ASP
+Banco de Dados:
+
+INVESTIMENTO-SAS
+Sistema de Investimento
+Sistema de Investimento
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: GABINETE - Gabinete da Secretaria de Atenção à Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+I3GEOSAUDE
+I3GEOSAUDE
+Difundir e compartilhar com estados e municípios as tecnologias e os conhecimentos utilizados na estruturação da Sala de Apoio à
+Gestão Estratégica (SAGE) do Ministério da Saúde.
+Agrupar e organizar dados geográﬁcos produzidos pela saúde, possibilitando não só o acesso a mapas, mas também a diversas
+análises provenientes destes dados.
+Difundir o uso do geoprocessamento por meio de uma interface genérica, mas com inúmeras possibilidades de interação entre
+aplicação e usuário, por meio de uma ferramenta apta a atender diversas ﬁnalidades, desde a simples navegação pelos mapas
+temáticos, até sua utilização para análise e apoio à tomada de decisão por gestores.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DEMAS - Departamento de Monitoramento e Avaliação do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+
+INDA
+Infraestrutura Nacional de Dados Abertos
+A Infraestrutura Nacional de Dados Abertos (INDA) é um conjunto de padrões, tecnologias, procedimentos e mecanismos de
+controle necessários para atender às condições de disseminação e compartilhamento de dados e informações públicas no modelo
+de Dados Abertos, em conformidade com o disposto na ePING. A INDA é a política do governo brasileiro para dados abertos.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação:
+Banco de Dados:
+
+INFLUENZA
+Cadastro de Informações de Influenza a (H1N1)
+O que: Trata-se de um sistema desktop instalado nas pontas negociais que é importante para a gestão de dados estatísticos sobre
+agravos de notiﬁcações, possui atualmente mais de 59 doenças/ﬁchas cadastradas, auxiliando a vigilância nacional nas estratégias
+governamentais em suas três esferas de poder.
+Porque: Atender a solicitação da área gestora.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: ASP
+Banco de Dados:
+
+INVESTIMENTO-SAS
+Sistema de Investimento
+Sistema de Investimento
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: GABINETE - Gabinete da Secretaria de Atenção à Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+LIRA
+Sistema de levantamento rápido de índices para Aedes aegypti
+Consiste em uma amostragem larvária bimestral de Aedes aegypti em um município para obter a estimativa da infestação pelo
+vetor da dengue. Essa amostragem deve ser precedida de um mapeamento e estratiﬁcação dos imóveis do município em unidades
+territoriais homogêneas de 2500 a 12000 imóveis denominadas estratos. É ferramenta fundamental para direcionamento e
+intensiﬁcação das ações antivetoriais, pois apresenta a magnitude e a distribuição da infestação por tipo de criadouro nas
+diferentes regiões do município.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÃNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação:
+Banco de Dados:
+
+LOCALIDADE
+Infraestrutura Nacional de Dados Abertos
+Sistema de Localidades
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÃNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+LRPD
+Sistema de levantamento rápido de índices para Aedes aegypti
+Sistema para levantamento rápido de índices para Aedes aegypti
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação:PHP
+Banco de Dados: ORACLE 11G
+
+
+MAIS-MEDICOS
+Mais Médicos
+O Programa Mais Médicos, instituído por meio da Medida Provisória nº 621, de 8 de julho de 2013, convertida na Lei nº 12.871, de
+22 de outubro de 2013, constitui-se em política pública do governo brasileiro com objetivo de suprir déﬁcits do recurso humano
+médico no Sistema Único de Saúde (SUS), notadamente nas regiões mais vulneráveis do Brasil, no âmbito da Atenção Básica, sendo
+uma estratégia para viabilizar a garantia mínima de pelo menos um proﬁssional médico em cada município do Brasil e a ampliação
+da cobertura médica.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: Departamento de Planejamento e Regulação da Provisão de Proﬁssionais de Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+MAPASAUDE
+Mapa da Saúde
+O Ministério da Saúde, por meio da Secretaria de Gestão Estratégica e Participativa (SGEP), disponibiliza o Mapa da Saúde. A
+ferramenta, desenvolvida pelo Departamento de Articulação Interfederativa (DAI) em parceria com as demais áreas técnicas do
+Ministério da Saúde, visa auxiliar o processo de planejamento no âmbito do SUS, na perspectiva de apoio à elaboração do mapa nas
+regiões de saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DAI - DEPARTAMENTO DE ARTICULAÇÃO INTERFEDERATIVA
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+MICRONUTRIENTES
+Sistema de Micronutrientes
+Sistema de controle e monitoramento de distribuição de suplementos vinculados aos Programas Nacionais de Vitamina A, Ferro e
+NutriSUS.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO EM SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+Novo SIM - Wicket
+Sistema de Informação de Mortalidade
+O Sistema de Informações sobre Mortalidade (SIM) foi criado pelo DATASUS para a obtenção regular de dados sobre mortalidade
+no país. A partir da criação do SIM foi possível a captação de dados sobre mortalidade, de forma abrangente, para subsidiar as
+diversas esferas de gestão na saúde pública. Com base nessas informações é possível realizar análises de situação, planejamento e
+avaliação das ações e programas na área.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DANTPS - Departamento de Vigilância de Doença e Agravos Não Tramissíveis e Promoção da Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+NOVO SINAN
+Sistema de Informação de Agravos de Notificação
+O Sistema de Informação de Agravos de Notiﬁcação - Sinan é alimentado, principalmente, pela notiﬁcação e investigação de casos
+de doenças e agravos que constam da lista nacional de doenças de notiﬁcação compulsória (Portaria de Consolidação nº 4, de 28 de
+Setembro de 2017, anexo V - Capítulo I), mas é facultado a estados e municípios incluir outros problemas de saúde importantes em
+sua região, como varicela no estado de Minas Gerais ou diﬁlobotríase no município de São Paulo. Sua utilização efetiva permite a
+realização do diagnóstico dinâmico da ocorrência de um evento na população, podendo fornecer subsídios para explicações
+causais dos agravos de notiﬁcação compulsória, além de vir a indicar riscos aos quais as pessoas estão sujeitas, contribuindo assim,
+para a identiﬁcação da realidade epidemiológica de determinada área geográﬁca.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação:
+Banco de Dados:
+
+NPSAU
+Novo Pesquisa Saúde
+O Novo Pesquisa Saúde é uma ferramenta eletrônica que congrega dados de mais de 5.000 pesquisas fomentadas pelo
+Departamento de Ciência e Tecnologia (Decit), viabilizando à busca de projetos em áreas temáticas prioritárias do Ministérios da
+Saúde, dando suporte ao trabalho realizado por pesquisadores, gestores e proﬁssionais de saúde. O sistema comporta diversos
+critérios de busca (número de projetos e recursos investidos por ano, região, modalidade de fomento, edital e instituição, entre
+outros), permitindo que o usuário encontre de forma rápida e eﬁciente as informações relacionadas ao tema de seu interesse. Após
+cada busca, diversos indicadores são apresentados na forma do gráﬁcos e tabelas, permitindo ainda a exportação dos resultados
+para uma planilha eletrônica, de forma que o usuário possa trabalhar com as informações de acordo com a sua necessidade.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS - SCTIE
+Unidade Responsável: CDESI - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS INTERNOS DO DATASUS
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+PCDT
+Protocolos Clínicos e Diretrizes Terapêuticas
+Os Protocolos Clínicos e Diretrizes Terapêuticas (PCDT) têm o objetivo de estabelecer claramente os critérios de diagnóstico e o
+algoritmo de tratamento de cada doença, com as doses adequadas dos medicamentos e os mecanismos para o monitoramento
+clínico em relação à efetividade do tratamento e a supervisão de possíveis reações adversas. Os PCDT também objetivam criar
+mecanismos para a promoção do Uso Racional de Medicamentos.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS - SCTIE
+Unidade Responsável: DGITS - Departamento de Gestão e Incorporação de Tecnologia em Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+PEC
+Processo Eletrônico de Compras do Miistério da Saúde
+Sistema responsável pelo Processo Eletrônico de Compras do Ministério da Saúde, contemplando diferentes ﬂuxos, a partir da
+ﬁnalização do Termo de Referência no sistema SILOS, até a assinatura do contrato de fornecimento das aquisições .
+O sistema Orquestra foi adquirido pelo Ministério da Saúde e o DATASUS é responsável apenas pela hospedagem do mesmo
+(fornecimento dos servidores de aplicação e banco de dados).
+Porque - O projeto visa atender a necessidade de controlar o processo de compra eletrônica.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DLOG - Departamento de Logística em Saúde
+Linguagem de Programação: C
+Banco de Dados: ORACLE 11G
+
+PESQUISA DE OPNIÃO
+Sistema de Pesquisa de Opinião da estratégia eSUS/AB
+Sistema de fórum para os proﬁssionais da saúde que utilizam das ferramentas/softwares enviarem sugestões de melhorias para
+uma possível implementação.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+PLATBR
+Plataforma Brasil
+A Plataforma Brasil é uma base nacional e uniﬁcada de registros de pesquisas envolvendo seres humanos para todo o sistema
+CEP/CONEP. Ela permite que as pesquisas sejam acompanhadas em seus diferentes estágios - desde sua submissão até a
+aprovação ﬁnal pelo CEP e pela CONEP, quando necessário - possibilitando inclusive o acompanhamento da fase de campo, o envio
+de relatórios parciais e dos relatórios ﬁnais das pesquisas (quando concluídas).
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS - SCTIE
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação: HTML
+Banco de Dados: ORACLE 11G
+
+PORTAL DAB
+Sistema de Cadastro de Notícias da AB
+Saúde mais perto de você é conjunto de iniciativas do Departamento de Atenção Básica para cuidar da população no ambiente em
+que vive, nele estão incluídos a Estratégia Saúde da Família (que compõe a Política Nacional de Atenção Básica), o Brasil Sorridente
+(Política Nacional de Saúde Bucal); Política Nacional de Alimentação e Nutrição; Política Nacional de Práticas Integrativas e
+Complementares; Programa de Requaliﬁcação das Unidades Básicas de Saúde; Programa Nacional de Melhoria do Acesso e
+Qualidade na Atenção Básica (PMAQ-AB); Programa Telessaúde Brasil Redes; Equipes de Consultórios na Rua; Programa Saúde
+na Escola (PSE); Projeto de Expansão e Consolidação da Estratégia Saúde da Família (PROESF), entre outros programas, ações e
+estratégias.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+Portal do e-Gestor AB
+Portal do e-Gestor AB
+Portal de divulgação dos relatórios e informações de Sistema da AB, funciona também como centralizador e gestor dos acessos a
+todos os Sistemas ofertados pelo DAB.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+PORTAL MAIS MEDICOS
+Portal Mais Médicos
+Atender o programa de Governo Mais Médicos que atua na provisão de médicos para a Atenção Básica e capacitação dos
+proﬁssionais de saúde, disponibilizando todas as informações necessárias para o programa.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: CDESI - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS INTERNOS DO DATASUS
+Linguagem de Programação: PHP
+Banco de Dados:
+
+PORTAL SNA
+Sistema Nacional de Auditoria do SUS
+Portal para divulgação dos sistemas SNA e conteúdo para o público em geral.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGEP
+Unidade Responsável: DENASUS - Departamento Nacional de Auditoria do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+
+PORTAL CIDADAO
+Portal de Saúde do Cidadão
+O Portal de Saúde do Cidadão é uma iniciativa do Ministério da Saúde voltada para o fortalecimento e o exercício da cidadania. O
+Portal está dividido em duas áreas. A primeira é de acesso livre e nela o cidadão encontrará diversas informações sobre saúde
+pública. A segunda é restrita aos usuários do Sistema Único de Saúde (SUS) e traz informações sobre o cadastro do cidadão no SUS,
+a emissão do Cartão Nacional de Saúde, o programa Farmácia Popular, os medicamentos disponíveis, exames, procedimentos
+médicos e estabelecimentos de saúde, dentre outras. O acesso à área restrita se dará por meio do número do Cartão Nacional de
+Saúde e senha.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+PORTAL CNS
+Portal do Cartão Nacional de Saúde
+O portal do Cartão Nacional de Saúde (CNS) é uma ferramenta que apresenta informações sobre divulgação, controle e supervisão
+de instituições que atuam com o objetivo de promover e difundir a utilização e demais benefícios do Cartão Nacional de Saúde
+(CNS) no Brasil.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+PORTAL COMPRAS
+Portal de Compras do Ministério da Saúde
+Serve para que o gestor encontre com facilidade os equipamentos necessários para estruturação das Unidades Básicas de Saúde,
+todos num mesmo portal de compras. O mais interessante é a agilidade que terá na compra através da adesão à Ata Nacional de
+Registro de Preço, gerando economia e otimização dos recursos ﬁnanceiros.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: CDESI - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS INTERNOS DO DATASUS
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+PORTAL CONITEC
+Comissão Nacional de Incorporação de Tecnologias no SUS
+A Conitec, assistida pelo Departamento de Gestão e Incorporação de Tecnologias em Saúde - DGITS, tem por objetivo assessorar o
+Ministério da Saúde - MS nas atribuições relativas à incorporação, exclusão ou alteração de tecnologias em saúde pelo SUS, bem
+como na constituição ou alteração de Protocolos Clínicos e Diretrizes Terapêuticas - PCDT.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DGITS - Departamento de Gestão e Incorporação de Tecnologia em Saúde
+Linguagem de Programação: HTML
+Banco de Dados: MYSQL 5
+
+PORTAL CONSULTA
+Portal Consulta
+Portal Consulta
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+PORTAL DAB
+Portal do Departamento de Atenção Básica
+Portal do Departamento de Atenção Básica utilizando a ferramenta CMS Joomla, obedecendo os novos padrões e-gov e
+assimilando-se ao template do portal do Ministério da Saúde a ser lançado pela ASCOM do Ministério da Saúde.
+É necessário a criação de uma estrutura de servidor própria (instalando o joomla e etc) para este portal. Com isso o site do
+ministério da saúde não será sobrecarregado com o volume de acessos e de informações oriundas do portal do DAB.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+
+PORTAL DATASUS
+Portal do Departamento de Informaática do SUS
+Tem como responsabilidade prover os órgãos do SUS de sistemas de informação e suporte de informática, necessários ao processo
+de planejamento, operação e controle.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação:
+Banco de Dados:
+
+PORTAL EGOV
+Portal do Fundo Nacional de Saúde
+Portal do Fundo Nacional de Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: FNS - Fundo Nacional de Saúde
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+
+PORTAL MS
+Portal Saúde do Ministério da Saúde - Joomla - eGov
+Com o objetivo de levar mais informações ao cidadão e estabelecer uma transparência das ações, programa e instituição
+Ministério da Saúde;
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: ASCOM - Assessoria de Comunicação Social
+Linguagem de Programação: JOOMLA / PHP
+Banco de Dados: MYSQL 5
+
+PORTAL REBRATS
+Rede Brasileira de Avaliação de Tecnologia em Saúde
+Criada pela Portaria nº 2.915 de 12 de dezembro de 2011, a Rede Brasileira de Avaliação de Tecnologias em Saúde – REBRATS
+busca estabelecer a ponte entre pesquisa, política e gestão, fornecendo subsídios para decisões de incorporação, monitoramento e
+abandono de tecnologias.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação:
+Banco de Dados:
+
+PORTAL TECNOLOGIA
+Portal da Tecnologia dos Sistemas DATASUS
+Portal onde será publicado todas arquiteturas de sistemas e de infraestrutura do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+
+PORTAL-ADOLESCENTE
+Internalização do Site Proteger Adolescente
+OBS: Internalização do site Proteger Adolescentes que foi desenvolvido por uma parceria da CGSAJ/SAS com a UERJ. Foi
+construído em observância ao modelo de Portal Padrão, da Secom/PR. O referido site contém páginas e arquivos, sem possuir
+ainda conﬁgurações mais complexas de navegação.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+PORTAL-BVSMS
+Site da Biblioteca Virual em Saúde - BVS MS - eGov
+O BVSMS é uma divisão da Biblioteca do Ministério da Saúde, responsável pela veiculação do site da BVS MS, no qual são
+publicadas as informações bibliográﬁcas produzidas pelo Ministério da Saúde, bem como informações gerais na área de ciências da
+saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+PORTALSINAN
+Sistema de Informação de Agravos de Notificação
+Sua utilização efetiva permite a realização do diagnóstico dinâmico da ocorrência de um evento na população, podendo fornecer
+subsídios para explicações causais dos agravos de notiﬁcação compulsória, além de vir a indicar riscos aos quais as pessoas estão
+sujeitas, contribuindo assim, para a identiﬁcação da realidade epidemiológica de determinada área geográﬁca.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: CDESS - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS DE SAÚDE DO DATASUS
+Linguagem de Programação: PHP
+Banco de Dados:
+
+PROGRAMASUS
+Programação Geral das Ações e Serviços Saúde
+A PGASS consiste em um processo de negociação e pactuação entre os gestores, em que são deﬁnidos os quantitativos físicos e ﬁnanceiros das
+ações e serviços de saúde a serem desenvolvidos, no âmbito regional, partindo da realidade municipal. Possui articulação com a Programação
+Anual de Saúde (PAS) de cada ente presente na região, dando visibilidade aos objetivos e metas estabelecidos no processo de planejamento
+regional integrado, bem como os ﬂuxos de referência para sua execução. Como resultado desse amplo processo de discussão e identiﬁcação de
+necessidades é possível a priorização de investimentos necessários para a conformação da Rede de Atenção à Saúde. Do ponto de vista
+metodológico, a PGASS foi subdivida em três etapas, possibilitando a melhor operacionalização da proposta de modo sistêmico, conforme sua
+abrangência e escopo: Diretrizes – Registro das diretrizes, objetivos e metas dos planos de saúde, harmonizado no âmbito regional;
+Rede de Atenção – Modelagem da Rede de Atenção à Saúde e Mapa de Investimentos; Programação – Programação Geral das Ações e Serviços
+de Saúde, com explicitação dos pactos de gestão e programação por estabelecimento de saúde.
+É necessário a criação de uma estrutura de servidor própria (instalando o joomla e etc) para este portal. Com isso o site do ministério da saúde não
+será sobrecarregado com o volume de acessos e de informações oriundas do portal do DAB.
+
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+PROINTERNATO
+Programa de Apoio ao Internato Médico em Universidades Federais
+O PRÓ-INTERNATO tem como pressuposto o apoio ao desenvolvimento de atividades práticas em serviço de saúde no internato
+dos cursos de medicina em universidades federais sem hospitais próprios, com a ﬁnalidade de fomentar as atividades de tutoria e
+preceptoria em atividades práticas no internato do curso de medicina, visando ao aprimoramento da formação médica em áreas
+estratégicas para o SUS na rede de atenção à saúde. O PRÓ-INTERNATO tem como objetivo geral apoiar e qualiﬁcar a supervisão
+dos estudantes em atividades práticas e/ou em estágios realizados por docentes e proﬁssionais dos serviços de saúde, no processo
+de educação pelo trabalho. Neste sentido, o presente edital visa a selecionar propostas de instituições federais sem hospitais
+próprios para concessão de bolsas de:
+I - Tutoria acadêmica, destinada a docentes médicos das IFES sem hospitais próprios integrantes do PRÓ-INTERNATO que
+realizem supervisão de estudantes e/ou coordenem, orientem e apóiem a preceptoria desenvolvida nos serviços de saúde para
+estudantes do curso de graduação em medicina; e
+II - Preceptoria, destinada a proﬁssionais médicos pertencentes aos serviços de saúde que realizem orientação em serviço a i)
+estudantes de graduação de medicina e ii) residentes de IFES sem hospitais próprios.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃOESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: DEGES - Departamento de Gestão da Educação na Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+PSBE
+Portal Saúde Baseada em Evidências
+O Portal Saúde Baseada em Evidências (PSBE) é uma ação do Ministério da Saúde, em parceria com a Coordenação de
+Aperfeiçoamento de Pessoal de Nível Superior do Ministério da Educação (Capes/MEC), voltada para a qualiﬁcação proﬁssional
+dos trabalhadores do SUS.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃOESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: DEGES - Departamento de Gestão da Educação na Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+PSE
+Sistema do Programa Saúde na Escola
+Sistema de Adesão aos ciclos do Programa Saúde na Escola.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+PVC
+Programa de Volta para Casa
+O Programa de Volta para Casa foi instituído pelo Presidente Lula, por meio da assinatura da Lei Federal 10.708 de 31 de julho de
+2003 e dispõe sobre a regulamentação do auxílio-reabilitação psicossocial a pacientes que tenham permanecido em longas
+internações psiquiátricas com objetivo de contribuir no processo de inserção social dessas pessoas, incentivando a organização de
+uma rede ampla e diversiﬁcada de recursos assistenciais e de cuidados, facilitadora do convívio social, capaz de assegurar o bemestar global e estimular o exercício pleno de seus direitos civis, políticos e de cidadania.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+QUALISUS-REDE
+Pesquisa sobre a Assistência Farmacêutica nas Redes de Atenção a Saúde
+O projeto é fruto de uma articulação entre o Ministério da Saúde e os estados e municípios. Com o QualiSUS-Rede, busca-se a
+sistematização e a disseminação de experiências e modelos, com o objetivo de apoiar a consolidação de um sistema integrado de
+serviços de saúde, as Redes de Atenção à Saúde (RAS).
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DAF - Departamento de Assistência Farmacêutica e Insumos Estratégicos
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+RAAS-AD
+REGISTRO DAS AÇÕES AMBULATORIAIS DE SAÚDE
+O RASS realiza o registro ambulatorial na saúde, com o objetivo de incluir as necessidades relacionadas ao monitoramento das
+ações e serviços de saúde conformados em redes de atenção à saúde. Esse seminário apresenta à lógica, o ﬁnanciamento, a
+produção de informações (monitoramento e avaliação) e também a operação de registros no âmbito ambulatorial da saúde mental,
+além de abordar todas essas ações, apresenta o histórico do início dos registros através da portaria nº 276, de 30 de março de 2012.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: C
+Banco de Dados: FIREBIRD
+
+REBRATS
+REDE BRASILEIRA DE AVALIAÇÃO DE TECNOLOGIAS EM SAÚDE
+O sistema REBRATS cria e estabelece metodologias de padronização de qualidade de pesquisas. Com o objetivo de estabelecer o
+elo entre avaliação e incorporação de tecnologias em saúde, serão integrados à rede órgãos do Ministério da Saúde, agências
+reguladoras, Secretarias Estaduais e Municipais, hospitais, usuários, sociedades proﬁssionais e cientíﬁcas, entre outros
+segmentos da sociedade.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação: COLDFUSION
+Banco de Dados: ORACLE 11G
+
+PVC
+Programa de Volta para Casa
+O Programa de Volta para Casa foi instituído pelo Presidente Lula, por meio da assinatura da Lei Federal 10.708 de 31 de julho de
+2003 e dispõe sobre a regulamentação do auxílio-reabilitação psicossocial a pacientes que tenham permanecido em longas
+internações psiquiátricas com objetivo de contribuir no processo de inserção social dessas pessoas, incentivando a organização de
+uma rede ampla e diversiﬁcada de recursos assistenciais e de cuidados, facilitadora do convívio social, capaz de assegurar o bemestar global e estimular o exercício pleno de seus direitos civis, políticos e de cidadania.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação: DELPHI
+Banco de Dados: SQL SERVER
+
+REDECORPSUS
+REDE Corporativa do SUS
+Solução de rede corporativa para implantação de uma ferramenta de relacionamento com foco proﬁssional e institucional com a
+ﬁnalidade de melhoria dos serviços em saúde para Sociedade, além de proporcionar maior conhecimento sobre seus Servidores,
+bem como suas ideias, anseios, valores e pensamentos individuais e coletivos;
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+REGSIS
+Registro de sistemas
+Sistema para controle de instalações de sistemas off line ou locais, com geração de contra senha após contato com o 136.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação: JAVA
+Banco de Dados: POSTGREESQL
+
+
+RESP
+Registro de Eventos em saúde Pública
+Monitoramento integrado de vigilância e atenção à saúde de condições relacionadas às infecções durante a gestação, identiﬁcadas
+no pré-natal, parto e puericultura.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+RIPSA-BAHIA
+Rede Interagencial de Informações para a Saúde
+A Rede Interagencial de Informação para a Saúde (Ripsa), tem como objetivo fortalecer a gestão do SUS, subsidiando o processo
+decisório em saúde, bem como a formulação, gestão e avaliação de políticas de saúde, sistematizando informações relevantes
+sobre o estado de saúde da população e seus determinantes sociais, econômicos e ambientais. Para tal, promove ações conjuntas
+das instituições responsáveis pela produção, análise e disseminação de dados sobre a realidade sanitária.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação:
+Banco de Dados:
+
+SAGE
+Sala de Apoio à Gestão Estrategica
+A Sage disponibiliza informações para subsidiar a tomada de decisão, a gestão e a geração de conhecimento.
+Demostrando a atuação governamental no âmbito do SUS, a Sage possibilita projeções e inferências setoriais, além de contribuir
+para a transparência das ações desenvolvidas na área de saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DEMAS - Departamento de Monitoramento e Avaliação do SUS
+Linguagem de Programação: PHP
+Banco de Dados: POSTGREESQL
+
+SAIPS
+Sistema de apoio à Implementação de Políticas em Saúde
+O Sistema de Apoio à Implementação de Políticas em Saúde (SAIPS) tem o objetivo de aperfeiçoar as solicitações de transferências
+de recursos ﬁnanceiros ou credenciamento/habilitação de serviços necessários à implantação de políticas em saúde; permitindo
+transparência, agilidade, organização e monitoramento das solicitações.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: GABINETE - Gabinete da Secretaria de Atenção à Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SARGSUS - ANUAL
+Sistema de Apoio ao Relatório Anual de Gestão
+Apoio ao relatório anual dos estados e municípios
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DAI - Departamento de Articulação Interfederativa
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+
+SAU - SGSG
+Sistema de Atendimento ao Usuário
+Permite que os usuários do Ministério da Saúde solicitem a prestação de serviços internos de forma eletrônica, bem como os
+gestores responsáveis por cada um desses serviços atendam e acompanhem as demandas em tempo real.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: Subsecretaria de Assuntos Administrativos
+Linguagem de Programação:
+Banco de Dados:
+
+SCA
+Sistema de Controle de Acesso
+Controla acesso aos sistemas do MS - FNS
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+SCAWEB
+Sistema de Controle de Acesso WEB
+Sistema de Controle de Acesso WEB do Ministério da Saúde
+
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+SCD
+Sistema de Controle de Demandas
+Sistema criado para controlar as demandas recebidas pelo gabinete do Ministro da Saúde e seus interessados e deliberações.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: GM - Gabinete do Ministro
+Linguagem de Programação:
+Banco de Dados:
+
+SCGP
+Sistema de Controle de Gasto com Publicidade
+O SCGP é uma ferramenta que permite o registro, acompanhamento e gerenciamento dos gastos que foram realizados com
+publicidade no âmbito do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: GM - Gabinete do Ministro
+Linguagem de Programação:
+Banco de Dados: ACCESS
+
+SCPA
+Sistema de Controle e Permissão de Acesso
+O sistema tem como ﬁnalidade cadastrar os sistemas e suas funcionalidades; cadastrar usuários, grupos e deﬁnir permissões por
+sistemas, descentralizando o cadastro de usuários aos gestores dos sistemas. O objetivo é disponibilizar um sistema informatizado
+que seja de fácil acesso, e que possa melhorar e otimizar a rotina de trabalho dos envolvidos no processo de controle de acesso aos
+sistemas Web do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: AJAX
+Banco de Dados: ORACLE 11G
+
+SEARQ
+Sistema de Serviço de Arquivo
+O projeto tem como objetivo oferecer suporte à gestão referente às transferências de documentos e arquivos das unidades
+setoriais, para o cumprimento da fase intermediária de guarda no Serviço de Arquivo.
+As atividades desenvolvidas pelo Serviço de Arquivo, o processo de trabalho de transferência e pesquisa de documentos da
+referida unidade será informatizado, propiciando mais velocidade e precisão na localização dos documentos, maior controle
+documental, auxiliando no trabalho de destinação ﬁnal (recolhimento e eliminação), entre outros benefícios decorrentes da
+qualiﬁcação na ferramenta de indexação e recuperação das informações. Está extremamente integrado ao SIPAR, inclusive foi
+desenvolvido utilizando o mesmo schema de banco de dados deste.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+searq.homologacao.saude.gov
+Banco de Dados: ORACLE 11G
+
+SEI
+Sistema Eletrônico de Informações
+O Sistema Eletrônico de Informações (SEI), é um sistema de gestão de processos e documentos arquivísticos eletrônicos, com
+interface amigável e práticas inovadoras de trabalho. Uma das suas principais características é a libertação do papel como suporte
+físico para documentos institucionais e o compartilhamento do conhecimento com atualização e comunicação de novos eventos
+em tempo real.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SGAM
+Sistema de Gerenciamento de Arquivo e Matérias
+O sistema gestor de arquivos e e-mails da ASCOM é a principal ferramenta de trabalho do Gabinete, que permite que sejam
+divulgadas informações em massa a respeito das ações ministeriais aos órgãos de imprensa nacionais e internacionais e à
+comunidade em geral. Atualmente existem 18.000 contatos cadastrados.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: ASCOM - Assessoria de Comunicação Social
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SGP
+Sistema de Gerenciamento de Programas - Mais Médicos
+SGP é um sistema do Ministério da Saúde nos quais gestores municipais e proﬁssionais médicos realizam adesões e inscrições nos
+Programas de Provisão de Médicos.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: DEPREPS - Departamento de Planejamento e Regulação da Provisão de Proﬁssionais de Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SGTES
+Sistema de Controle da ações internas da Secretaria de Gestão e Educação na Saúde
+A Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES) é responsável por formular políticas públicas orientadoras da
+gestão, formação e qualiﬁcação dos trabalhadores e da regulação proﬁssional na área da saúde no Brasil.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: CGPLAN - Coordenação Geral de Planejamento e Orçamento
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+SHARECGIE
+Projeto de Gestão Eletrônica da CGIE
+Ferramenta para apoiar o CGIE em gerenciamento eletrônico de documentos no controle, versionamento e repositório de
+documentos.
+Para apoiar a estratégia d Coordenação de Gestão de Redes e Telecomunicações. Aplicando modelos de documentos, controle de
+acesso e backup dos documentos eletrônicos. A ferramenta utilizada será o Sharepoint da Microsoft onde o Ministério da Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: .NET
+Banco de Dados: MYSQL 5
+
+SIACS
+Sistema de Acompanhamento dos Conselhos de Saúde
+Sistema de Acompanhamento dos Conselhos de Saúde é sistema integrado de planejamento, informação, monitoramento,
+controle e avaliação das ações de saúde com foco no repasse dos recursos federais, viabilizando o estabelecimento de mecanismos
+de valorização por desempenho a partir de metas pactuadas.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: CNS - Conselho Nacional de Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+SGP
+Sistema de Gerenciamento de Programas - Mais Médicos
+SGP é um sistema do Ministério da Saúde nos quais gestores municipais e proﬁssionais médicos realizam adesões e inscrições nos
+Programas de Provisão de Médicos.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: DEPREPS - Departamento de Planejamento e Regulação da Provisão de Proﬁssionais de Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SGTES
+Sistema de Controle da ações internas da Secretaria de Gestão e Educação na Saúde
+A Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES) é responsável por formular políticas públicas orientadoras da
+gestão, formação e qualiﬁcação dos trabalhadores e da regulação proﬁssional na área da saúde no Brasil.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: CGPLAN - Coordenação Geral de Planejamento e Orçamento
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+SHARECGIE
+Projeto de Gestão Eletrônica da CGIE
+Ferramenta para apoiar o CGIE em gerenciamento eletrônico de documentos no controle, versionamento e repositório de
+documentos.
+Para apoiar a estratégia d Coordenação de Gestão de Redes e Telecomunicações. Aplicando modelos de documentos, controle de
+acesso e backup dos documentos eletrônicos. A ferramenta utilizada será o Sharepoint da Microsoft onde o Ministério da Saúde
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: .NET
+Banco de Dados: MYSQL 5
+
+SIACS
+Sistema de Acompanhamento dos Conselhos de Saúde
+Sistema de Acompanhamento dos Conselhos de Saúde é sistema integrado de planejamento, informação, monitoramento,
+controle e avaliação das ações de saúde com foco no repasse dos recursos federais, viabilizando o estabelecimento de mecanismos
+de valorização por desempenho a partir de metas pactuadas.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: CNS - Conselho Nacional de Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+SIARH
+Sistema de Administração de Recursos Humanos.
+O SIARH é uma ferramenta que permite a gestão dos servidores e colaboradores do Ministério da Saúde em âmbito nacional.
+O cadastro do SIARH serve de base para todos os sistemas do Ministério da Saúde que necessitam de alguma informação referente
+aos colaborados deste órgão. Ele é um cadastro único que é mantido pela CGRH - Coordenação Geral de Recursos Humanos, onde
+são feitas as inclusões dos terceirizados. As atualizações dos dados de servidores são feitas somente no SIAPE, sendo o SIARH
+somente para consultas desses dados. O sistema foi desenvolvido com tecnologia Web, podendo assim, ser utilizado por qualquer
+unidade ligada ao Ministério da Saúde que possuem acesso a sua rede de computadores.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+SIARH-CONCURSOS
+Concursos
+Tem a ﬁnalidade de preenchimento do currículo do concursado na internet e é realizado a gestão das informações para
+visualização controlar o candidatos e permitir gerar mais de 15 relatórios gerenciais.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SIARH-ESTAGIARIO
+Estagiários
+Sistema de integração entre o MS, instituições de ensino e estudantes.
+Tem por objetivo colaborar com a inserção dos jovens estudantes no mundo do trabalho bem como realizar o controle das etapas
+entre a inscrição e a efetivação do estudante como estagiário do MS.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SIARH-GFIP
+SIARH-GFIP - Guia de Recolhimento do FGTS e de Informações à Previdência Social
+O sistema compreende o conjunto de informações destinadas ao FGTS e à Previdência Social. A obrigação de prestar informações
+relacionadas aos fatos geradores de contribuição previdenciária e outros dados de interesse do INSS - Instituto Nacional do
+Seguro Social, foi instituída pela Lei nº 9.528, de 10/12/1997. O documento a ser utilizado para prestar estas informações GFIP foi
+deﬁnido pelo Decreto nº 2.803, de 20/10/1998, e corroborado pelo Regulamento da Previdência Social RPS, aprovado pelo
+Decreto nº 3.048, de 06/05/1999 e alterações posteriores.GFIP signiﬁca Guia de Recolhimento do Fundo de Garantia do Tempo de
+Serviço e Informações à Previdência Social, compreendendo o conjunto de informações destinadas ao FGTS e à Previdência Social.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+SIARH-SAD
+Sistema de Avaliação de Desempenho .
+Sistema de Avaliação de Desempenho do Servidor do MS
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+SIARH-SAPMS
+Sitema de Atendimento Pessoal do Ministerio da Saúde
+SAPMS é uma ferramenta que permite a gestão dos servidores do Ministério da Saúde em âmbito nacional. A CAP/CGESP tem
+como demanda o gerenciamento de 20 requerimentos, entre eles: Auxilio Funeral, Pensão, Auxio Neonatal, etc.Com o sistema, o
+CAP poderá gerenciar todas as informações no ambito nacional hoje gerenciada manualmente pelo MS e estados. O sistema está
+dividido em módulo tratados como requerimento pelo gestor, estes módulos serão desenvolvidos de acordo com a prioridade
+informada pelo gestor.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SIARH-SAUDE SUPLEMENTAR
+Saúde Suplementar
+Gerenciar de planos de saúde coordenados pela CAP, futuramente será incorporado ao SIGESP.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+
+SIASI
+Sistema de Informação da Atenção da Saúde Indígena
+O Sistema SIASI (Sistema de Informação da Atenção à Saúde Indígena) agrupa os dados epidemiológicos dos 34 distritos sanitários.
+Outros sistemas importantes são o Hórus (Sistema Nacional de Gestão da Assistência Farmacêutica) e o SISABI (Sistema de
+Informação de Saneamento em Áreas Indígenas).SI (Sistema de Informação da Atenção à Saúde Indígena), que agrupa os dados
+epidemiológicos dos 34 distritos sanitários. Outros sistemas importantes são o Hórus (Sistema Nacional de Gestão da Assistência
+Farmacêutica) e o SISABI (Sistema de Informação de Saneamento em Áreas Indígenas).
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA ESPECIAL DE SAÚDE INDÍGENA - SESAI
+Unidade Responsável: DGESI - Departamento de Gestão da Saúde Indígena
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+
+SIASI SWING
+Sistema de Informação da Atenção da Saúde Indígena SWING.
+O Sistema SIASI (Sistema de Informação da Atenção à Saúde Indígena) agrupa os dados epidemiológicos dos 34 distritos sanitários.
+Outros sistemas importantes são o Hórus (Sistema Nacional de Gestão da Assistência Farmacêutica) e o SISABI (Sistema de
+Informação de Saneamento em Áreas Indígenas).SI (Sistema de Informação da Atenção à Saúde Indígena), que agrupa os dados
+epidemiológicos dos 34 distritos sanitários. Outros sistemas importantes são o Hórus (Sistema Nacional de Gestão da Assistência
+Farmacêutica) e o SISABI (Sistema de Informação de Saneamento em Áreas Indígenas).
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA ESPECIAL DE SAÚDE INDÍGENA - SESAI
+Unidade Responsável: DGESI - Departamento de Gestão da Saúde Indígena
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+SIASI WEB
+Sistema de Informação da Atenção da Saúde Indígena (WEB)
+O Sistema SIASI (Sistema de Informação da Atenção à Saúde Indígena) agrupa os dados epidemiológicos dos 34 distritos sanitários.
+Outros sistemas importantes são o Hórus (Sistema Nacional de Gestão da Assistência Farmacêutica) e o SISABI (Sistema de
+Informação de Saneamento em Áreas Indígenas).SI (Sistema de Informação da Atenção à Saúde Indígena), que agrupa os dados
+epidemiológicos dos 34 distritos sanitários. Outros sistemas importantes são o Hórus (Sistema Nacional de Gestão da Assistência
+Farmacêutica) e o SISABI (Sistema de Informação de Saneamento em Áreas Indígenas).
+Classiﬁcação: ASAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA ESPECIAL DE SAÚDE INDÍGENA - SESAI
+Unidade Responsável: DGESI - Departamento de Gestão da Saúde Indígena
+Linguagem de Programação:
+Banco de Dados:
+
+SIATC
+Sistema de Acompanhamento de Termos de Cooperação
+Internalização de sistema em atendimento ao Acordão TCU 2899, ACORDOS FIRMADOS ENTRE O MINISTÉRIO DA SAÚDE E
+ORGANIZAÇÃO PAN-AMERICANA DE SAÚDE. Internalização ou desenvolvimento de sistema para controle e acompanhamento
+de contratos OPAS com pessoas jurídicas e físicas, com controle de diárias e de passagens.
+Este sistema foi desenvolvido por um consultor OPAS e a área gestora solicitou a entrega do código fonte para internalização no
+DATASUS.
+Gestora: Cláudia Brandão - Voip: 7804Usuário ponto focal: Leonardo Mello
+Por que:
+Atender ao Acordão TCU 2899, ACORDOS FIRMADOS ENTRE O MINISTÉRIO DA SAÚDE E ORGANIZAÇÃO PAN-AMERICANA
+DE SAÚDE.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DESID - Departamento de Economia da Saúde, Investimento e Desenvolvimento
+Linguagem de Programação: .NET
+Banco de Dados: ORACLE 11G
+
+SIED
+Sistema Editoral
+Sistema para controle e acompanhamento do processo de produção do produto editorial.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: AJAX
+Banco de Dados: ORACLE 11G
+
+
+SIES
+Sistema de Insumos Estrátegicos
+Sistema de Informação de Insumo Estratégico, com objetivo de controlar o recebimento, armazenagem e distribuição de insumos
+estratégicos (principalmente imunobiológicos).
+Porque - Devido a necessidade de controlar os estoques e abastecimentos de insumos estratégicos.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGEP
+Unidade Responsável: DEGEVS - Departamento de Gestão da Vigilância em Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+SIGESP
+Sistema de Gestao de Pessoas
+Estruturar os projetos da CGESP, uniﬁcando as informações de cunho estratégico visando atender a gestão da Coordenação e do
+Ministério da Saúde, bem como melhorar o atendimento aos servidores da saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: ANGULAR
+Banco de Dados: ORACLE 11G
+
+SIGESP - SLSITUACAO
+Sala de Situação CGESP
+O projeto será capaz de fornecer ao gestor, relatórios e gráﬁcos com informações sobre os sistemas administrativos, informações
+gerenciais e gestão para o gabinete CGESP.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SIGESP-DIMENSIONAMENTO
+Dimensionamento de Fora de Trabalho
+Objetivo de gerar e disponibilizar informações de cada área do MS para subsidiar a tomada de decisão, a gestão e a geração de
+conhecimento para o Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+SIGESP-SIGAE
+Sistema de Gestão de Ações de Educação
+O projeto tem o objetivo de planejar, executar e monitorar o Plano de Educação Permanente do MS - PEP/MS (Sede e suas unidades
+descentralizadas). As informações de execução do PEP/MS subsidiarão a elaboração do Relatório Final de Execução, solicitado
+anualmente pelo Ministério do Planejamento Orçamento e Gestão.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SIGESP-SIREF
+Sistema de Registro Eletrônico de Frequência
+Sistema de Registro Eletrônico de Frequência é baseado no cumprimento da portaria 2.571 de 12 de novembro de 2012, deﬁnindo
+o uso do controle eletrônico de ponto para registros de assiduidade e pontualidade dos servidores públicos lotados e em exercício
+nos órgãos do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SIGRESIDENCIA
+Sistema de Informações Gerenciais do Programa Nacional de Bolsas para Residência Médica e Residência Multiprofissional - PRÓ-RESIDÊNCIA
+O SIGRESIDÊNCIAS tem a ﬁnalidade de acompanhar e gerenciar as informações para o pagamento das bolsas pelo Ministério da
+Saúde para o Programa Nacional de Bolsas para Residência Médica e Residência Multiproﬁssional - Pró-Residencia.
+porque: Implementado com o objetivo de atender ao programa de apoio à formação de especialistas em áreas estratégicas
+(residência médica e em área proﬁssional de saúde) - Pró-Residência, visando ampliar a oferta de bolsas em regíões prioritárias
+para o SUS. É responsavel por manter o cadastro de informações desses residentes nas instituições.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGTES
+Unidade Responsável: DEPREPS - Departamento de Planejamento e Regulação da Provisão de Proﬁssionais de Saúde
+Linguagem de Programação: HTML
+Banco de Dados: ORACLE 11G
+
+SILOS I
+Sistema de Acompanhamento de Elaboração de Termo de Referência
+Sistema de Controle de Plano de Demandas, Termo de Referência para compras de insumos estratégicos pelo Ministério da Saúde.
+Devido a necessidade de controlar o processo de compra do Ministério da Saúde.
+Realiza Planejamento Logístico do Ministério da Saúde desde a criação do Plano de Demandas(Compras) Anual e o Termo de
+Referência eletrônico para aquisição do produto e/ou serviço.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DLOG - Departamento de Logística em Saúde
+Linguagem de Programação: IBM MAXIMO
+Banco de Dados: ORACLE 11G
+
+SILOS II
+Sistema de Logística Gestão de Contratos
+Sistema de Logística para controle de contratos de compra e fornecimento, inicialmente ﬁrmados por Termo de Referência do
+SILOS.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DLOG - Departamento de Logística em Saúde
+Linguagem de Programação: IBM MAXIMO
+Banco de Dados: ORACLE 11G
+
+SILOS III
+Sistema de Logística - Controle de Pagamentos (CEOF)
+Sistema de controle dos pagamenos entre DLOG e os fornecedores de insumos estratégicos.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DLOG - Departamento de Logística em Saúde
+Linguagem de Programação: IBM MAXIMO
+Banco de Dados: ORACLE 11G
+
+SILOS JUDICIAL
+Sistema de Logística - Controle de Aquisições de Insumos Esraegicos para Demanda Judicial
+Contempla o ﬂuxo inteiro dos pedidos de demanda judicial. Começa lendo o sistema de AGU que faz o pedido de medicamento,
+passa pela CONJUR DO MS que analisa o pedido e as áreas do MS (SAS,SVS,SESAI) que decidem se vão comprar, depositar ou usar
+do estoque os medicamentos. Decidida a compra passa para o parceiro de logística do órgão que faz a entrega ao usuário. Fluxo
+digital em sua maior parte
+Faz também a analise de vencimento dos medicamentos.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DLOG - Departamento de Logística em Saúde
+Linguagem de Programação: IBM MAXIMO
+Banco de Dados: ORACLE 11G
+
+SILOS PEC
+Sistema de Logísitca Processo Eletrônico de Compras
+Sistema de Controle de Processo Eletrônico de Compras, com objetivo de controlar o ﬂuxo dos processos e dar visibilidades das
+atividades de aquisições de Insumos estratégicos .
+Migração do sistema de controle da plataforma ORQUESTRA, para o IBM Maximo.
+Este sistema realiza o acompanhamento da tramitação dos processos de aquisição nas fases deﬁnidos no Termo de Referência.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DLOG - Departamento de Logística em Saúde
+Linguagem de Programação: IBM MAXIMO
+Banco de Dados: ORACLE 11G
+
+SILOS SAA - FINANCEIRO
+Sistema de Logística Administrativo
+SISTEMA DE LOGÍSTICA - Sistema para Controle de pagamentos e aquisições da SAA.
+Permite o controle do ﬂuxo de trabalho com maior eﬁciência, inclusive conhecer a situação de qualquer processo de execução
+orçamentária e ﬁnanceira localizado na CEOF ou SECON. O controle da produção realizada(qualitativa e quantitativa) pelos
+servidores da CEOF ou da SECON de maneira individualizada
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: IBM MAXIMO
+Banco de Dados: ORACLE 11G
+
+SIM
+Sistema de Informação de Mortalidade)
+O sistema de Informação sobre Mortalidade tem como objetivo realizar o cadastramento das declarações de Óbito (DO) para
+subsidiar o conhecimento da situação de saúde em relação aos atestados de óbito e a apoio as medidas a serem tomadas por parte
+dos gestores do SUS e dos proﬁssionais de saúde. Ele ainda tem como objetivo aumentar a cobertura e a qualidade das informações
+possibilitando o melhor conhecimento da realidade sociosanitária e a possibilidade de atuar na resolução dos problemas de saúde
+da população.
+Para isto o sistema foi desenvolvido para permitir o acesso via rede sem a necessidade de instalação em mais de uma máquina,
+realização das criticas dos campos no momento da entrada dos dados, unção em relação a tecnologia do sistema seletor de causa
+básica, ferramentas para trabalhar a investigação realizadas em cada processo, controle dos documentos enviados para o
+cadastramento e a utilização da ferramenta sisnet, para a transmissão de dados, onde faz com que a transmissão dos dados seja
+mais segura e ágil.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE -SVS
+Unidade Responsável: DANTPS - Departamento de Vigilância de Doença e Agravos Não Tramissíveis e Promoção da Saúde
+Linguagem de Programação:
+Banco de Dados:
+
+SIM-Web-Java
+Sistema de Informações sobre Mortalidade
+O sistema de Informação sobre Mortalidade tem como objetivo realizar o cadastramento das declarações de Óbito (DO) para
+subsidiar o conhecimento da situação de saúde em relação aos atestados de óbito e a apoio as medidas a serem tomadas por parte
+dos gestores do SUS e dos proﬁssionais de saúde. Ele ainda tem como objetivo aumentar a cobertura e a qualidade das informações
+possibilitando o melhor conhecimento da realidade sociosanitária e a possibilidade de atuar na resolução dos problemas de saúde
+da população.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DANTPS - Departamento de Vigilância de Doença e Agravos Não Tramissíveis e Promoção da Saúde
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SINASC Local - ASP
+Sistema de informação sobre Nascidos Vivos
+O sistema de Informação sobre Nascidos Vivos tem como objetivo realizar o cadastramento das declarações de Nascidos Vivos
+(DN) para subsidiar o conhecimento da situação de saúde em relação aos nascimentos ocorridos no país. Ele ainda tem como
+objetivo aumentar a cobertura e a qualidade das informações possibilitando o melhor conhecimento da realidade sociosanitária e
+a possibilidade de atuar na resolução dos problemas de saúde da população.
+Para isto o sistema foi desenvolvido para permitir o acesso via rede sem a necessidade de instalação em mais de uma máquina,
+realização das criticas dos campos no momento da entrada dos dados, controle dos documentos enviados para o cadastramento e a
+utilização da ferramenta SISNET, para a transmissão de dados, onde faz com que a tramitação dos dados seja mais segura e ágil.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DANTPS - Departamento de Vigilância de Doença e Agravos Não Tramissíveis e Promoção da Saúde
+Linguagem de Programação: ASP
+Banco de Dados:
+
+SINASC Local - Delphi
+Sistema de informação sobre Nascidos Vivos
+O sistema de Informação sobre Nascidos Vivos tem como objetivo realizar o cadastramento das declarações de Nascidos Vivos
+(DN) para subsidiar o conhecimento da situação de saúde em relação aos nascimentos ocorridos no país. Ele ainda tem como
+objetivo aumentar a cobertura e a qualidade das informações possibilitando o melhor conhecimento da realidade sociosanitária e
+a possibilidade de atuar na resolução dos problemas de saúde da população.
+Para isto o sistema foi desenvolvido para permitir o acesso via rede sem a necessidade de instalação em mais de uma máquina,
+realização das criticas dos campos no momento da entrada dos dados, controle dos documentos enviados para o cadastramento e a
+utilização da ferramenta SISNET, para a transmissão de dados, onde faz com que a tramitação dos dados seja mais segura e ágil.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE -SVS
+Unidade Responsável: DANTPS - Departamento de Vigilância de Doença e Agravos Não Tramissíveis e Promoção da Saúde
+Linguagem de Programação: DELPHI
+Banco de Dados:
+
+SINASC Web - JAVA
+Sistema de informação sobre Nascidos Vivos
+Sistema de Informação sobre Nascidos Vivos tem como objetivo realizar o cadastramento das declarações de Nascidos Vivos (DN)
+para subsidiar o conhecimento da situação de saúde em relação aos nascimentos ocorridos no país. Ele ainda tem como objetivo
+aumentar a cobertura e a qualidade das informações possibilitando o melhor conhecimento da realidade sociosanitária e a
+possibilidade de atuar na resolução dos problemas de saúde da população.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DANTPS - Departamento de Vigilância de Doença e Agravos Não Tramissíveis e Promoção da Saúde
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SIOPS
+Sistema e Informações sobre Orçamentos Públicos em Saúde
+O SIOPS é um sistema disponibilizado pela internet que tem por objetivo apurar as receitas totais e os gastos em ações e serviços
+públicos de saúde. Foi institucionalizado no âmbito do Ministério da Saúde, com a publicação da Portaria Conjunta MS/
+Procuradoria Geral da República nQ 1163, de 11 de outubro de 2000, posteriormente retiﬁcada pela Portaria Interministerial nQ
+446, de 16 de março de 2004. Atualmente, o SIOPS é coordenado pela Área de Economia da Saúde e Desenvolvimento AESD, da
+Secretaria Executiva.
+O preenchimento de dados do SIOPS tem natureza declaratória e busca manter compatibilidade com as informações contábeis,
+geradas e mantidas pelos Estados e Municípios, e conformidade com a codiﬁcação de classiﬁcação de receitas e despesas, deﬁnidos
+em portarias, pela Secretaria do Tesouro Nacional/MF.
+As informações coletadas pelo SIOPS são provenientes do setor responsável pela contabilidade do Ente federado, podendo-se
+utilizar para o preenchimento do SIOPS os dados contábeis ou as informações dos relatórios e demonstrativos de execução
+orçamentária e ﬁnanceira dos governos estaduais e municipais. Tais informações são inseridas no sistema e transmitidas
+eletronicamente, através da internet, para o banco de dados do DATASUS/MS, gerando indicadores, de forma automática, a partir
+das informações declaradas pelos entes federados.
+Benefícios
+Propicia insumos para a melhoria da gestão, diagnósticos do setor e formulação de políticas públicas; Municia a sociedade civil e os
+conselhos de saúde para o exercício do controle sobre a gestão pública, ao disponibilizar os dados à população.
+Funcionalidades:
+- Disponibiliza a consulta sobre as receitas totais e despesas com ações e serviços públicos de saúde através da Internet;
+- Facilita aos Conselhos de Saúde, a transparência sobre a aplicação dos recursos públicos do setor; Consolida as informações
+sobre gastos em saúde no país, proporcionando a toda a população o conhecimento sobre quanto cada unidade políticoadministrativa do país tem aplicado na área.
+O SIOPS tem dentre suas funcionalidades a coleta, processamento, disseminação e acompanhamento dos orçamentos públicos
+em saúde de todos os estados e municípios brasileiros. O aplicativo está localizado no DATASUS-RJ, onde processa os arquivos
+recebidos dos entes federados e alimenta uma base de dados nacional.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DESID - Departamento de Economia da Saúde, Investimento e Desenvolvimento
+Linguagem de Programação: .NET
+Banco de Dados:
+
+SIOPS - DELPHI
+Sistema e Informações sobre Orçamentos Públicos em Saúde
+O SIOPS é um sistema disponibilizado pela internet que tem por objetivo apurar as receitas totais e os gastos em ações e serviços
+públicos de saúde. Foi institucionalizado no âmbito do Ministério da Saúde, com a publicação da Portaria Conjunta MS/
+Procuradoria Geral da República nQ 1163, de 11 de outubro de 2000, posteriormente retiﬁcada pela Portaria Interministerial nQ
+446, de 16 de março de 2004.
+Atualmente, o SIOPS é coordenado pela Área de Economia da Saúde e Desenvolvimento AESD, da Secretaria Executiva.
+O preenchimento de dados do SIOPS tem natureza declaratória e busca manter compatibilidade com as informações contábeis,
+geradas e mantidas pelos Estados e Municípios, e conformidade com a codiﬁcação de classiﬁcação de receitas e despesas, deﬁnidos
+em portarias, pela Secretaria do Tesouro Nacional/MF.
+As informações coletadas pelo SIOPS são provenientes do setor responsável pela contabilidade do Ente federado, podendo-se
+utilizar para o preenchimento do SIOPS os dados contábeis ou as informações dos relatórios e demonstrativos de execução
+orçamentária e ﬁnanceira dos governos estaduais e municipais. Tais informações são inseridas no sistema e transmitidas
+eletronicamente, através da internet, para o banco de dados do DATASUS/MS, gerando indicadores, de forma automática, a partir
+das informações declaradas pelos entes federados.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DESID - Departamento de Economia da Saúde, Investimento e Desenvolvimento
+Banco de Dados:
+
+SIOPS - DOTNET
+Sistema e Informações sobre Orçamentos Públicos em Saúde - Certificado Digital
+Em relação ao Sistema de Informações sobre Orçamentos Públicos em Saúde (SIOPS), a Lei Complementar nº 141, de 13 de janeiro
+de 2012 (LC 141/2012), torna obrigatório o registro de dados sobre despesas com ações e serviços públicos de saúde pelos entes da
+Federação, na pessoa do gestor do Sistema Único de Saúde (SUS). Os dados declarados e homologados pelos gestores passam a ter
+fé pública para todos os ﬁns legais, incluindo a comprovação da aplicação do mínimo constitucional de recursos em saúde, até que
+haja parecer do tribunal de contas para o exercício ﬁnanceiro. Dada a necessidade de garantir a segurança das informações
+prestadas pelos gestores de cada ente da Federação, o Ministério da Saúde considera relevante a adoção da certiﬁcação digital no
+SIOPS.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DESID - Departamento de Economia da Saúde, Investimento e Desenvolvimento
+Linguagem de Programação: .NET
+Banco de Dados: ORACLE 11G
+
+SIPAR
+Sistema Integrado de Protocolo e Arquivo
+O Sistema Integrado de Protocolo e Arquivo do Ministério da Saúde (SIPAR) é um sistema que permite o protocolo,
+acompanhamento e arquivo dos documentos, facilitando a coordenação do ﬂuxo documental. A versão Intranet é utilizada por
+todo o Ministério da Saúde, nos Núcleos Estaduais e Hospitais Federais. Passou a ser utilizado também pelos Distritos Sanitários de
+Saúde Indígena (DSEI).
+A versão Internet está disponível como módulo consulta para qualquer usuário que desejar consultar um determinado processo ou
+documento em trâmite no Ministério da Saúde.
+A gestora do projeto é Bruna Carla Hiraici Rezende (bruna.rezende).
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação:
+Banco de Dados:
+
+SIPAR DILIGENCIA
+Sistema Integrado de Protocolo e Arquivo - Diligência
+O sistema subsidia melhorias na estruturação do controle e monitoramento das diligências de Órgãos de Controle endereçados ao
+Ministério da Saúde, à Secretária Executiva e à Assessoria Especial de Controle Interno. Está extremamente integrado ao SIPAR,
+inclusive foi desenvolvido utilizando o mesmo schema de banco de dados deste.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: AECI - Assessoria Especial de Controle Interno
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SIPAT
+Sistema Integrado e Administração de Patrimonio
+O Sistema Integrado de Administração do Patrimônio - SIPAT foi desenvolvido pelo Ministério da Saúde em parceria com o
+Departamento de Informática do SUS - DATASUS e com apoio da Divisão de Registro e Controle Patrimonial - DIRPA, da
+Coordenação de Suprimentos e Controle Patrimonial - COSUP, da Coordenação Geral de Recursos Logísticos - CGRL e da
+Secretaria de Assuntos Administrativos -SAA/SE, a ﬁm de colaborar para melhoria contínua dos processos relacionados a gestão
+dos bens patrimoniais do Ministério da Saúde - MS.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+SIPNI
+Sistema de Informações do Programa Nacional de Imunizações
+O SI-PNI é formado por um conjunto de sistemas:
+Avaliação do Programa de Imunizações - API.
+Registra, por faixa etária, as doses de imunobiológicos aplicadas e calcula a cobertura vacinal, por unidade básica, município, regional da Secretaria Estadual de
+Saúde, estado e país. Fornece informações sobre rotina e campanhas, taxa de abandono e envio de boletins de imunização. Pode ser utilizado nos âmbitos federal,
+estadual, regional e municipal.
+Estoque e Distribuição de Imunobiológicos - EDI.
+Gerencia o estoque e a distribuição dos imunobiológicos. Contempla o âmbito federal, estadual, regional e municipal.
+Eventos Adversos Pós-vacinação - EAPV.
+Permite o acompanhamento de casos de reação adversa ocorridos pós-vacinação e a rápida identiﬁcação e localização de lotes de vacinas. Para a gestão federal,
+estadual, regional e municipal.
+Programa de Avaliação do Instrumento de Supervisão em Sala de Vacinação - PAISSV.
+Sistema utilizado pelos coordenadores estaduais de imunizações para padronização do perﬁl de avaliação, capaz de agilizar a tabulação de resultados.
+Desenvolvido para a supervisão das salas de vacina.
+Apuração dos Imunobiológicos Utilizados - AIU.
+Permite realizar o gerenciamento das doses utilizadas e das perdas físicas para calcular as perdas técnicas a partir das doses aplicadas. Desenvolvido para a gestão
+federal, estadual, regional e municipal.
+Programa de Avaliação do Instrumento de Supervisão - PAIS.
+Sistema utilizado pelos supervisores e assessores técnicos do PNI para padronização do perﬁl de avaliação, capaz de agilizar a tabulação de resultados.
+Desenvolvido para a supervisão dos estados.
+Sistema de Informações dos Centros de Referência em Imunobiológicos Especiais - SICRIE.
+Registra os atendimentos nos CRIEs e informa a utilização dos imunobiológicos especiais e eventos adversos.
+
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: AJAX
+Banco de Dados: POSTGREESQL
+
+SIRAM
+Sistema de Registro de Atendimento às Crianças com Microcefalia
+O Sistema de Registro de Atendimento às Crianças com Microcefalia - SIRAM está baseado na web e tem acesso restrito a
+gestores, proﬁssionais de saúde e digitadores. Possui capacidade de adaptação a diversos dispositivos (computadores, tablets e
+smartphones etc.) e, seu objetivo primordial é mapear o acompanhamento realizado das crianças com diagnóstico de microcefalia,
+tanto em serviços públicos quanto os realizados na esfera suplementar.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+SIRIUS
+Sistema de Registro de Atendimento às Crianças com Microcefalia
+Controle das demandas, abertura de Ordem de Serviço e Termo de Aceite. Atualmente trabalha com Webservice provendo
+informações orçamentárias e ﬁnanceiras para o Portfólio. Possui um módulo especíﬁco para a CAOFI junto ao Datasus.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: CDESI - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS INTERNOS DO DATASUS
+Linguagem de Programação: PHP
+Banco de Dados: POSTGREESQL
+
+SISAB
+Sistema de Informação em Saúde para a Atenção Básica
+Sistema de Informação em Saúde para a Atenção Básica (SISAB) foi instituído pela Portaria GM/MS nº 1.412, de 10 de julho de
+2013, passando a ser o sistema de informação da Atenção Básica vigente para ﬁns de ﬁnanciamento e de adesão aos programas e
+estratégias da Política Nacional de Atenção Básica, substituindo o Sistema de Informação da Atenção Básica (SIAB).
+O SISAB integra a estratégia do Departamento de Atenção Básica (DAB/SAS/MS) denominada e-SUS Atenção Básica (e-SUS AB),
+que propõe o incremento da gestão da informação, a automação dos processos, a melhoria das condições de infraestrutura e a
+melhoria dos processos de trabalho.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+SISAC-INTERNALIZACAO
+Sistema de Saúde da Criança
+Internalizar um sistema existente da Coordenação-Geral de Saúde da Criança e Aleitamento Materno. O sistema existente
+monitora as ações da Iniciativa Hospital Amigo da Criança (IHAC), da Norma de Atenção Humanizada ao Recém Nascido de Baixo
+Peso (RNBP) - Método Canguru, apoio à Mulher Trabalhadora que Amamenta (MTA), e Atenção Integral à Crianças em Situação de
+Violências (este último a ser desenvolvido).
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação:
+Banco de Dados:
+
+SISAGUA
+Sistema de Informação de Vigilância da Qualidade da Água
+O Sisagua é um instrumento do Vigiagua que tem como ﬁnalidade auxiliar o gerenciamento de riscos à saúde associados à
+qualidade da água para consumo humano, como parte integrante das ações de prevenção dos agravos transmitidos pela água e de
+promoção da saúde, previstas no Sistema Único de Saúde. Esse gerenciamento é realizado a partir de:
+i. Dados gerados rotineiramente pelos proﬁssionais do setor saúde (Vigilância);
+ii. Dados gerados rotineiramente por responsáveis pelos serviços de abastecimento de água (Controle).
+Visa a promover a melhoria da qualidade da água destinada à população a partir da geração de informações em tempo hábil para
+planejamento, tomada de decisão e execução de ações de saúde relacionadas à água para consumo humano.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSAST - Departamento de Vigilância em Saúde Ambiental e Saúde do Trabalhador
+Linguagem de Programação: HTML
+Banco de Dados: ORACLE 11G
+
+SISCAN
+Sistema de Informações do Câncer
+O SISCAN é uma ferramenta que permite o acompanhamento das informações relativas ao câncer de mama e colo do útero.
+Projeto em arquitetura WEB contribuirá para o acesso à informação com maior rapidez e qualidade, com a ﬁnalidade de melhorar a
+capacidade de gestão de conhecimento em câncer e fortalece a Política de Atenção Oncologia.
+Poderá oferecer aos gestores subsídios para tomada de decisão no processo de planejamento, regulação, avaliação e controle e
+promover a disseminação da informação.
+Por meio do SISCAN poderá obter-se informações referentes aos exames realizados nas mulheres, assim como a frequência das
+lesões pré-cancerosas e do câncer invasivo, além de melhorar a consistência dos dados de coletas e das leituras das lâminas. O
+sistema buscará agilizar o processo de atualização dos dados uma vez que este procedimento passará a ser online, otimizando o
+processo de monitoramento e avaliação do programa de controle do câncer do colo do útero e de mama.
+O SISCAN permitirá a uniﬁcação das informações dos atuais sistemas SISCOLO E SISMAMA, que se encontram implantados
+localmente nas unidades do MS.
+O CADSUS será o elo uniﬁcador dos cadastros entre as informações dos dois sistemas, possibilitando que os gestores possam
+relacionar as mulheres que ﬁzeram os dois exames simultaneamente.
+O cadastro do novo sistema estará integrado com Cadastro Nacional de Estabelecimentos (CNES) podendo proporcionar a
+atualização e extração de informações integradas junto às unidades básicas de saúde e prestadores de serviço.
+Com a ﬁnalidade de facilitar e integrar o acesso às informações com outros sistemas, este novo projeto deverá disponibilizar
+interface via WebService para esta interoperabilidade.
+Este sistema será um dos principais instrumentos que auxiliarão a consolidação do Programa Nacional de Controle do Câncer do
+Colo do Útero e de Mama.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAET - Departamento de Atenção Especializada e Temática
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SISCEBAS
+Sistema de Certificação de Entidades Beneficentes de Assistência Social na Área da Saúde
+Sistema do Processo de Certiﬁcação de Entidades Beneﬁcentes de Assistência Social
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DCEBAS - Departamento de Certiﬁcação de Entidades Beneﬁcentes de Assistência Social em Saúde
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+SISCNRAC
+Sistema da Central Nacional de Regulação de Alta Complexidade
+O SisCNRAC foi desenvolvido pelo Departamento de Regulação, Avaliação e Controle (DERAC) em parceria com o Departamento
+de Informática do SUS (DATASUS), a ﬁm de contribuir para a melhoria contínua dos procedimentos relacionados ao ﬁnanciamento
+das ações de saúde, e controle de pagamentos aos prestadores de serviços que em determinado período, realizaram
+procedimentos ambulatoriais e hospitalares de alta complexidade para os estados e municípios. O sistema SisCNRAC tem como
+objetivos principais: Regular o ﬂuxo da referência interestadual de pacientes que necessitam de assistência hospitalar de alta
+complexidade; Registrar as demandas dos estados com ausência ou insuﬁciência de oferta do elenco de procedimentos de alta
+complexidade com atributo CNRAC nas especialidades de cardiologia, neurologia, oncologia, ortopedia e gastroenterologia;
+Mapear a migração dos usuários do SUS a partir de seu local de residência e do registro de seu atendimento em outro estado, por
+especialidade e por procedimento; Disponibilizar informações para respaldar outras ações em saúde que permitam dirimir as
+diferenças regionais e as diﬁculdades de acesso de determinadas populações menos privilegiadas.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SISCOAP
+Sistema de Gestão do Conrtrato Oganizado da Ação Púbica da Saúde
+SISCOAP - Sistemas de Informações do Contrato Organizativo de Ação Pública da Saúde atende o Decreto Presidencial nº
+7.508/2011 (Capítulo V, Seção II), que estabelece as normas e regras para elaboração de um contrato entre as Entidades
+Federativas (União, Estado e Munícipio). Com o objetivo de automatizar, monitorar, apoiar a gestão compartilhada e garantir a
+transparência da elaboração do contrato por todo o seu ﬂuxo de elaboração, produção e pactuação.
+O sistema esta dividido em 3 (três) módulos principais, sendo eles:
+1)Elaboração do Contrato
+2)Monitoramento e Avaliação do Contrato
+3)Aditamento do Contrato
+Até o momento somente o módulo de Elaboração do Contrato foi desenvolvido e está em produção. Este divide-se nas fases:
+I.Cadastramento
+II.Produção
+III.Validação
+IV.Homologação
+Por que:
+Atender o Decreto Presidencial nº 7.508/2011 (Capítulo V, Seção II), que estabelece as normas e regras para elaboração de um
+contrato entre as Entidades Federativas (União, Estado e Munícipio)
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGEP
+Unidade Responsável: DAI - Departamento de Articulação Interfederativa
+Linguagem de Programação:
+Banco de Dados:
+
+SISCOLO
+Sistema de Informação de Câncer do Colo do Útero
+Coleta e processa informações sobre identiﬁcação de pacientes e laudos de exames citopatológicos e histopatológicos,
+fornecendo dados para o monitoramento externo da qualidade dos exames, e assim orientando os gerentes estaduais do Programa
+sobre a qualidade dos laboratórios responsáveis pela leitura dos exames no município.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável:
+Linguagem de Programação: DELPHI
+Banco de Dados: FIREBIRD
+
+SISCONFERENCIA
+Sistema de Conferência do SUS
+Atender as conferencias do Conselho Nacional de Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: PERL
+Banco de Dados: MYSQL 5
+
+SISCONFERENCIA JAVA
+Sistema de Conferências do Ministério da Saúde
+Atender as conferencias do Conselho Nacional de Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+SISCOOP
+Sistema de Gestão de Projetos e Ações de Cooperação Internacional
+O sistema viabiliza a gestão de projetos e ações de cooperação internacionais, focando padronização, controle e segurança,
+resultando no ótimo uso dos recursos e no aumento expressivo da produtividade no trabalho, atendendo as estratégias negociais
+da divisão de projetos, além de suprir às expectativas e necessidades dos usuários.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: GABINETE DO MINISTRO - GM
+Unidade Responsável: AISA - Assessoria de Assunto Internacional de Saúde
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+
+SISCT
+Sistema de Informação de Ciência e Tecnologia em Saúde
+O SISC&T é o sistema de informações do Departamento de Ciência e Tecnologia (Decit) da Secretaria de Ciência, Tecnologia e
+Insumos Estratégicos (SCTIE) do Ministério da Saúde. O SISC&T gerencia o Programa Pesquisa para o SUS, o Prêmio de Incentivo
+em Ciência e Tecnologia para o SUS, o Prêmio Nacional de Incentivo à Promoção de Uso Racional de Medicamentos, o Banco de
+Consultores e o Pesquisa Saúde.
+Ao clicar em uma das opções ao lado – Prêmios, PPSUS, Chamamento Público de Projetos de Pesquisa,Banco de Pareceristas
+e Pesquisa Saúde – você será direcionado para o ambiente escolhido.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação: COLDFUSION
+Banco de Dados: ORACLE 11G
+
+
+SISCT COLD FUSION
+Sistema de Informação de Ciência e Tecnologia em Saúde no Redmine
+O SISC&T gerencia o Programa Pesquisa para o SUS, o Prêmio de Incentivo em Ciência e Tecnologia para o SUS, o Prêmio Nacional
+de Incentivo à Promoção de Uso Racional de Medicamentos, o Banco de Consultores e o Pesquisa Saúde. Projeto vinculado ao
+prêmios: PPSUS, Banco de Consultores e Pesquisa Saúde.ado para o ambiente escolhido.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação:
+Banco de Dados:
+
+SISCT JAVA
+Sistema de Informação de Ciência e Tecnologia em Saúde
+O SISC&T gerencia o Programa Pesquisa para o SUS, o Prêmio de Incentivo em Ciência e Tecnologia para o SUS, o Prêmio Nacional
+de Incentivo à Promoção de Uso Racional de Medicamentos, o Banco de Consultores e o Pesquisa Saúde. Projeto vinculado ao
+prêmios: PPSUS, Banco de Consultores e Pesquisa Saúde.ado para o ambiente escolhido.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação:
+Banco de Dados:
+
+SISGERF
+Sistema de Gestão de Recursos Financeiros
+Sistema responsável por consolidar as funcionalidades necessárias ao atendimento das demandas ﬁnanceiras da
+CGCSS/DRAC/SAS, quanto a gerência responsável pelos repasses de verbas federais aos Estados e Municípios, aos pagamentos de
+Campanhas / FAECs aos Estados e Municípios, aos Créditos pagos diretamente aos HU-MEC e aos pagamentos de Ações Judiciais
+(referentes as diferenças de valores de procedimentos na conversão do URV para Real em 1994).
+Sistema responsável pela autorização e encaminhamento ao FNS para repasses de FAEC, Hospitais Universitários, HF e
+administrados pela EBSERH, também pela autorização dos movimentos contratualizados de Media e Alta complexidade e
+encaminhamento ao FNS.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: .NET
+Banco de Dados:
+
+
+SISGERF BI
+Sistema de Gerenciamento de Recursos Financeiros - BI
+Sistema responsável pela autorização e encaminhamento ao FNS para repasses de FAEC, TETO MAC, Incentivos, Hospitais
+Universitários, HF e administrados pela EBSERH,Suspensão de Incentivos, Carga do SISMAC, Controle de pagamentos manuais e
+administrativos, Controle de Demandas Financeiras e geração de relatórios de acompanhamento, além de controle de
+funcionalidade pelos perﬁs, sendo disponibilizado em arquitetura web compatível aos padrões propostos pelo Datasus/MS
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: MICROSTRATEGY
+Banco de Dados: ORACLE 11G
+
+SISLOG
+Sistema de Logística
+O sistema SISLOG é para acompanhamento de contratos de medicamentos. Tem como objetivo acompanhar a execução dos
+contratos, convênios e portarias relacionadas com a compra de medicamentos pelo Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS - SCTIE
+Unidade Responsável: DAF - Departamento de Assistência Farmacêutica e Insumos Estratégicos
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SISLOG LAB
+Sistema de Controle Logistico de Insumos Laboratoriais
+A necessidade de controlar os insumos de laboratórios para a realização dos exames CD4, CV e Genotipagem do HIV, motivaram a
+criação do sistema SISLOG_LAB.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSTAIDS - Departamento de Vigilância, Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/AIDS e das Hepatites Virais
+Linguagem de Programação: ASP
+Banco de Dados: SQLSERVER
+
+SISMAC
+Sistema de Controle de Limite Financeiro da Média e Alta Complexidade
+Sistema de Controle do Limite Financeiro da Média e Alta Complexidade – SISMAC – foi criado pelo Ministério da Saúde, para
+auxiliar o gestor do SUS a acompanhar a evolução dos recursos federais destinados ao coﬁnanciamento de ações e serviços
+ambulatoriais e hospitalares de média e alta complexidade, executados sob gestão dos estados, do Distrito Federal e dos
+municípios.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação:
+Banco de Dados:
+
+SISMAMA
+Sistema de Informação do câncer e mama
+Coleta e processa informações sobre identiﬁcação de pacientes e laudos de exames citopatológicos e histopatológicos,
+fornecendo dados para o monitoramento externo da qualidade dos exames, e assim orientando os gerentes estaduais do Programa
+sobre a qualidade dos laboratórios responsáveis pela leitura dos exames no município.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável:
+Linguagem de Programação: DELPHI
+Banco de Dados: FIREBIRD
+
+SISMAT
+Sistema de Administração de Material
+Gerencia o Estoque de peças de reposição, empréstimos de ferramentas e materiais de consumo dos laboratórios e departamentos
+administrativos da Unidade;
+- Gerencia todas as Compras efetuadas, tanto para o Estoque de peças de reposição quanto para materiais de consumo e
+ferramentas;
+- Possui cadastro de Fornecedores e Usuários;
+- Materiais são relacionados a Laboratórios e Disciplinas;
+- Suporte a Código de Barras;
+- Sistema Web e Banco de Dados Relacional hospedados e administrados no NTI-CEMEQ;
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DLOG - Departamento de Logística em Saúde
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+
+SISNEO
+Sistema de Informação em Triagem Neonatal
+O sistema SISNEO gerencia todo ﬂuxo de Triagem Neonatal de pacientes triados pelo SUS. É responsável por todo ﬂuxo
+laboratorial e de controle e monitoramento do tratamento dos pacientes que tiveram alteração nos exames. Seus principais
+módulos são:Laboratorial: Controla todo ﬂuxo laboratorial, desde o recebimento da amostra em papel-ﬁltro até a emissão do
+resultado ﬁnal.Monitoramento e controle do tratamento: Controla todo ﬂuxo de acompanhamento ambulatorial dos pacientes
+que tiveram algum tipo de alteração de resultados dos exames. Controla também todo ﬂuxo de comunicação multidisciplinar do
+acompanhamento.Centralizador: Recebe os arquivos com os dados Estaduais e gera os relatórios necessários com os indicadores
+para monitoramentos dos Programas.Módulo centralizador das informações sobre resultado do teste do pezinho registrado nos
+sistemas de laboratorio (Sisgtem de Gerenciamento Local (Triagem Neonatal) fornecido pelo MS e outros com layout a ser deﬁnido
+ate dezembro/2014). Sistema acompanhado pelo programa viver sem limites da casa civil da presidência da república.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAHU - Departamento de Atenção Hospitalar e Urgência
+Linguagem de Programação: ANGULAR
+Banco de Dados: ORACLE 11G
+
+SISNET
+Sistema de Controle de Envio de Lotes
+Sistema para auxiliar a transferência de informações que são geradas pelas unidades descentralizadas para o nível Superior.
+O SISNET tem como característica principal o uso de transmissão das informações por meio da Internet. Cada sistema é
+responsável por gerar, de forma automática, o arquivo de lote a ser remetido para o nível central.
+A geração dos dados a serem transmitidos é realizada por um módulo denominado Programa de Exportação e Importação. O
+formato do arquivo gerado é padronizado para todos os sistemas, permitindo que um único servidor possa receber as informações
+de vários sistemas.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+SISPACTO
+Aplicativo do Pacto pela Saúde
+Sistema através do qual é realizada a pactuação de Prioridades, Objetivos, Metas e Indicadores do Pacto pela Saúde, envolvendo
+municípios, estados e o Ministério da Saúde (MS). Anualmente são publicados, através de Portaria, os indicadores a serem
+pactuados (pertencentes à Atenção Básica, entre outras áreas gestoras).
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DAI - Departamento de Articulação Interfederativa
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+SISPART
+Módulo Rede Cegonha
+Implemetntação de uma rede de cuidados que assegura às mulheres o direito à gravidez, parto e puerpério seguros e humanizados,
+o direito ao planejamento reprodutivo e às crianças o direito ao nascimento seguro e humanizado, crescimento e desenvolvimento
+saudáveis.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SISPNCD
+Sistema do Programa Nacional de Controle da Dengue
+Mantém o controle das ações no combate ao Aedes Aegypti dos agentes de saúde em suas diversas atividades como: LI Levantamento de Índice, LI+T - Levantamento de Índice + Tratamento, PE - Ponto Estratégico, T - Tratamento, DF - Delimitação de
+Foco e PVE - Pesquisa Vetorial Especial.
+Esse sistema tem como entrada as informações dos municípios, sendo enviadas diretamente para o nível federal (Ministério da
+Saúde) onde são consolidadas. Todos os níveis (municipal, regional, estadual e federal) tem essas informações em formato de
+relatórios, capazes de fornecer informações que auxiliam os gestores da tomada de decisões na prática do PNCD - Programa
+Nacional de Controle da Dengue.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+SISPPI
+Sistema Programação Pactuada e Integrada
+O Sistema de Informação do Programa Nacional de Imunizações (SI-PNI) é uma ferramenta útil para a tomada de decisão.
+Atualmente, em base Web, o APIWeb coleta dados diários sobre vacinação realizada nas salas de vacinas do país. Estas
+informações são agregadas e consolidadas mensal e anualmente por tipo de imunobiológicos, idade, instâncias de gestão e por
+Ele permite aos gestores de saúde monitorar o desempenho do Programa de Imunizações nas ações de vacinação, a partir da
+análise mensal e anual dos indicadores de coberturas vacinais (proporção da população alvo vacinada), taxas de abandono de
+vacinação (proporção da população alvo que iniciou e não completou o esquema vacinal) e homogeneidade de coberturas vacinais
+(proporção de municípios com coberturas vacinais adequadas, conforme estabelecidas pelo PNI), possibilitando ainda avaliar o
+cumprimento de metas pactuadas intergestores do SUS, identiﬁcar áreas de risco para a ocorrência de doenças por baixas
+coberturas vacinais, subsidiando o planejamento e a programação das atividades de vacinação.
+Destaca-se que está em processo de implantação no país o Sistema de Informação do Programa Nacional de Imunizações SI-PNI-,
+que irá substituir o APIWEB. O SI-PNI é um sistema caracterizado por coletar dados individuais sobre vacinação fornecendo
+indicadores mais conﬁáveis. Além desses indicadores fornecidos pelo APIWeb antes mencionados, o SIPNI permitirá identiﬁcar
+indivíduos com esquemas vacinais incompletos, a utilização e perdas de imunobiológicos, vacinação com imunobiológicos
+especiais, controle mensal de estoque de imunobiológicos na sala de vacina, dentre outros relatórios, contribuindo sobremaneira
+para a otimização na aquisição, uso e distribuição desses produtos.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável:
+Linguagem de Programação:
+Banco de Dados: ORACLE 11G
+
+SISPPIINTEGRACAO
+Sistema de Informações sobre os Projetos Públicos de Irrigação
+É um módulo dos sistema SIsPPI que permitirá que informações de PPI`s consolidadas no módulo local (Estado), possam ser
+acessadas através de serviço Web Service por qualquer sistema do DATASUS, desde que estejam devidamente autorizados.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável:
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+
+SISPRENATAL WEB
+Sistema de acompanhamento do programa de humanização no pré natal e nascimento
+O SISPRENATAL WEB, inserido dentro da REDE CEGONHA,é um SISTEMA ONLINE que permite cadastrar a gestante, monitorar e
+avaliar a atenção ao pré-natal e ao puerperio prestadas pelos serviços de saúde a cada gestante e recém-nascido, desde o primeiro
+atendimento na Unidade Básica de Saúde até o atendimento hospitalar de alto risco. O sistema contribui, ainda, para identiﬁcar
+fatores que caracterizam a gravidez de risco, com o objetivo de promover a segurança da saúde da mãe e da criança, e auxilia na
+identiﬁcação de complicações responsáveis pelas principais causas de MORBIDADE e MORTALIDADE materna e perinatal.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAPES - Departamento de Ações Programáticas Estratégicas
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SISRCA
+Sistema de Regulação, Controle e Avaliação
+O sistema tem como objetivo informar as produções dos estabelecimentos de saúde que realizam produção ambulatorial e/ou
+hospitalar (SUS e Não SUS) aos gestores estaduais ou municipais.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação:
+Banco de Dados:
+
+SISRCA CNES
+Cadastro Nacional de Estabelecimentos de Saúde - Versão WEB
+O sistema tem como objetivo informar as produções dos estabelecimentos de saúde que realizam produção ambulatorial e/ou
+hospitalar (SUS e Não SUS) aos gestores estaduais ou municipais.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SISREBRATS
+Sistema de Informação da Rede Brasileira de Avaliação de Tecnologias em Saúde
+O sistema REBRATS cria e estabelece metodologias de padronização de qualidade de pesquisas. Com o objetivo de estabelecer o
+elo entre avaliação e incorporação de tecnologias em saúde, serão integrados à rede órgãos do Ministério da Saúde, agências
+reguladoras, Secretarias Estaduais e Municipais, hospitais, usuários, sociedades proﬁssionais e cientíﬁcas, entre outros
+segmentos da sociedade.
+Porque - Atender as necessidades do DECIT em viabilizar e participar das ações de avaliação e acompanhamento dos estudos
+inseridos no âmbito da rede. Promover o desenvolvimento dos estudos prioritários e atividades da rede. Promover a integração e
+potencialização das atividades da rede. Apoiar a gestão da rede.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA DE CIÊNCIA, TECNOLOGIA E INSUMOS ESTRATÉGICOS
+Unidade Responsável: DECIT - Departamento de Ciência e Tecnologia
+Linguagem de Programação: ANGULAR
+Banco de Dados: ORACLE 11G
+
+
+SISREG
+Sistema Nacional de Regulação
+O Sistema Nacional de Regulação - SISREG é um sistema web, criado para o gerenciamento de todo complexo regulatório, através
+de módulos que permitem desde inserção da oferta até a solicitação, pela rede básica, de consultas, exames e procedimentos na
+média e alta complexidade, bem como a regulação de leitos hospitalares, objetivando maior organização e controle do ﬂuxo de
+acesso aos serviços de saúde, otimização na utilização dos recursos assistenciais e visando a humanização no atendimento. É uma
+ferramenta fornecida pelo Ministério de Saúde de forma gratuita sendo sua utilização não compulsória, como forma de auxiliar na
+regulação do acesso. A implantação dos Complexos Reguladores, utilizando o sistema informatizado SISREG é condicionada à
+tomada de decisão dos gestores que optam pelo seu uso, de forma gratuita, proporcionando com sua utilização que as funções de
+controle, avaliação, planejamento, programação estejam de acordo com o Plano Diretor de regionalização (PDR) e com a
+Programação Pactuada Integrada (PPI), além da garantia de acesso dos usuários à rede de serviços.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: AJAX
+Banco de Dados:
+
+
+SISSOLO
+Sistema de Informação de Vigilância em Saúde de Populações Expostas à Solo Contaminado
+O que: O Sistema de Informação de Vigilância em Saúde de Populações Expostas a Solo Contaminado.
+É uma ferramenta importante para orientação e priorização das ações de vigilância em saúde de populações expostas a solo
+contaminado - VIGISOLO, permitindo o monitoramento da saúde destas populações por meio do cadastramento contínuo, por
+parte dos municípios ou estados, das áreas contaminadas identiﬁcadas, e da construção de indicadores de saúde e ambiente.
+Porque: Permite monitoramento da saúde destas populações por meio do cadastramento contínuo, por parte dos municípios ou
+estados, das áreas contaminadas identiﬁcadas, e da construção de indicadores de saúde e ambiente.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DSAST - Departamento de Vigilância em Saúde Ambiental e Saúde do Trabalhador
+Linguagem de Programação: ASP
+Banco de Dados: ORACLE 11G
+
+SISVAN
+Sistema de Vigilância Alimentar e Nutricional
+Sistema tem por objetivo consolidar os dados referentes às ações de Vigilância Alimentar e Nutricional, desde o registro de dados
+antropométricos e de marcadores de consumo alimentar até a geração de relatórios.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DAB - Departamento Atenção Básica
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SISVS
+Sistema Informação da Secretaria de vigilância e Saúde
+O SISVS é um sistema de informação que atenderá às demandas de submissão, avaliação e monitoramento das atividades de
+Pesquisa, Mostra Nacional de Experiências Bem-Sucedidas em Epidemiologia, Prevenção e Controle de Doenças (EXPOEPI) e do
+Boletim Epidemiológico da SVS.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGEP
+Unidade Responsável: DEGEVS - Departamento de Gestão da Vigilância em Saúde
+Linguagem de Programação: PHP
+Banco de Dados: ORACLE 11G
+
+SITE DATASUS
+Departamento de Informática do SUS
+A informatização das atividades do Sistema Único de Saúde (SUS), dentro de diretrizes tecnológicas adequadas, é essencial para a
+descentralização das atividades de saúde e viabilização do Controle Social sobre a utilização dos recursos disponíveis.
+Classiﬁcação: SAÚDE
+Tipo do Produto: PORTAL
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável:
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+
+SIVEP GRIPE
+Sistema de Informação da Influenza
+Normatizações e Técnicas
+A. Vigilância Sentinela da Inﬂuenza para Síndrome Gripal (SG) e Síndrome Respiratória Aguda Grave (SRAG) em Unidade de
+Terapia Intensiva
+B. Vigilância Universal de Síndrome Respiratória Aguda Grave (SRAG) de casos hospitalizados e óbitos por SRAG;
+C. Monitoramento de hospitalização (SIH) e mortalidade (SIM) pelo CID 10: J09 ao J18;
+D. Investigação de surtos, óbitos e eventos incomuns suspeitos para inﬂuenza.
+O principal objetivo da Vigilância Sentinela da inﬂuenza é a identiﬁcação (conhecimento e análises laboratoriais) dos vírus
+inﬂuenza circulantes e de outros vírus respiratórios. Existe uma extensiva rede internacional de laboratórios em todas as regiões
+do mundo sob a coordenação e administração da Organização Mundial da Saúde (OMS), formando a Rede Mundial de Vigilância da
+Inﬂuenza da OMS. O principal objetivo dessa rede é fornecer anualmente informações necessárias para a escolha das amostras
+que serão recomendadas para a composição anual das vacinas contra inﬂuenza no hemisfério norte e sul. As atividades da Rede
+Mundial de Vigilância também compreende uma vigilância oportuna que possibilite uma rápida identiﬁcação de amostras de vírus
+inﬂuenza emergente com potencial de causar epidemias ou pandemias. No Brasil, foram deﬁnidos em cada Unidade Federada
+sítios sentinelas de atuação da vigilância epidemiológica da inﬂuenza, para identiﬁcação e notiﬁcação de SG e SRAG. A vigilância
+em inﬂuenza no país é baseada nas informações geradas pela Rede de Vigilância em Inﬂuenza do Ministério da Saúde.
+Unidades Sentinelas de Inﬂuenza são aquelas Unidades ou Serviços de Saúde já implantados e cadastrados no Cadastro Nacional
+de Estabelecimentos de Saúde (CNES) e Sistema de Informação de Vigilância Epidemiológica da Gripe (SIVEP-Gripe), que atuam na
+identiﬁcação, notiﬁcação, investigação e diagnóstico de casos suspeitos e conﬁrmados.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SNAFAQ
+Perguntas Frequentes
+Sistema em que os auditores do SNA possam tirar dúvidas mediante perguntas relacionadas a assuntos de auditoria no SUS.
+Porque - Estabelecer um canal de comunicação de fácil acesso aos auditores do SNA visando ao esclarecimento de dúvidas de
+auditoria
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGEP
+Unidade Responsável: DENASUS - Departamento Nacional de Auditoria do SUS
+Linguagem de Programação: AJAX
+Banco de Dados: ORACLE 11G
+
+SOS-EMERGENCIAS
+SOS-EMERGENCIAS
+Centralizar, no Ministério da Saúde, as informações provenientes dos sistemas de gestão hospitalar dos estabelecimentos de
+saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+SPI
+Sistema de Protocolo Integrado
+Normatizações e Técnicas
+O Sistema SPI visa promover a integração das informações contidas no banco de dados do SIPAR com o sistema de Protocolo
+Integrado do Ministério do Planejamento, Orçamento e Gestão - MPOG.
+O objetivo ﬁnal deste projeto é permitir ao cidadão, acesso de forma facilitada e centralizada, sobre às informações tramitadas
+entre os órgãos do executivo federal e também dentro dos ministérios, inclusive do Ministério da Saúde.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA
+Unidade Responsável: SAA - Subsecretaria de Assuntos Administrativos
+Linguagem de Programação: ANGULAR
+Banco de Dados: ORACLE 11G
+
+SPO
+Sistema de Pesquisa da Ouvidoria do SUS
+Desenvolver um sistema para a Ouvidoria Geral do SUS que possibilite a realização de pesquisas com usuários do SUS, gestores e
+outros públicos para qualiﬁcar e ampliar o acesso às ações, programas e serviços de saúde do SUS.
+O Departamento de Ouvidoria-Geral do SUS tem como uma de suas competências "viabilizar e coordenar a realização de estudos e
+pesquisas visando à produção do conhecimento, no campo da ouvidoria em saúde, para subsidiar a formulação de políticas de
+gestão do SUS.As pesquisas são solicitadas pelas Secretarias do Ministério da Saúde e pelo Gabinete do Ministro de Estado da
+Saúde.Além disso, em uma concepção mais ATIVA, a própria Ouvidoria pode fomentar pesquisas em parceria ou não com outros
+órgãos, identiﬁcando dados que impactem direta ou indiretamente nas políticas públicas de saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE GESTÃO ESTRATÉGICA E PARTICIPATIVA - SGEP
+Unidade Responsável: DOGES - Departamento de Ouvidoria Geral do SUS
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+TABNET
+Tabulador de Dados para Ambiente Internet
+O programa TabNet foi elaborado com a ﬁnalidade de permitir às equipes técnicas do Ministério da Saúde, das Secretarias
+Estaduais de Saúde e das Secretarias Municipais de Saúde a realização de tabulações rápidas sobre os arquivos que constituem os
+componentes básicos dos Sistemas de Informações do Sistema Único de Saúde, dentro de suas Intranets ou em seus sites Internet.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: PHP
+Banco de Dados:
+
+
+TABWIN
+Ferramenta de Tabulação dos Dados dos Sistemas de Informações do Sistema Único de Saúde
+O TABWIN permite aos usuários realizar o cruzamento de dados dos diversos sistemas de informações em saúde, localmente,
+utilizando base de dados próprias para construção de indicadores, mapas, gráﬁcos etc.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: DATASUS - Departamento de Informática do SUS
+Linguagem de Programação: DELPHI
+Banco de Dados: ORACLE 11G
+
+TRANSMISSOR
+Transmissor de Dados Municipais para as Secretarias Estaduais de Saúde e DATASUS
+Permitir a transmissão dos arquivos que alimentam as bases dos sistemas abaixo citados para as Secretarias Estaduais de Saúde e
+para o DATASUS. As Secretarias de Saúde dos Estados - SES, Municípios - SMS e do Distrito Federal deverão utilizar o transmissor
+para envio das bases do SCNES, SIA, SIAB, SAMU, SIPNI e SIH, de acordo com as competências. Estrutura: Site (conﬁgurações para
+envio, recebimento e consultas); O Transmissor Server: é o aplicativo que faz a validação e recepção dos arquivos no DATASUS. Os
+sistemas que utilizam o transmissor, tem uma área de FTP própria para recepção desses arquivos. O Transmissor ADMIN (utilizado
+pelo MS/CGSI): é o aplicativo responsável pelo gerenciamento das competências de envio, pelo controle de usuários do sistema
+ADMIN, pela exclusão de arquivos enviados, pela habilitação de envio fora do prazo, pelo cadastro de remessa justiﬁcada, pelo
+bloqueio de envio de um determinado sistema, pelo bloqueio do sistema transmissor, pela conﬁguração do sistema, pelo cadastro
+de domínios das SES , pelo cadastro da habilitação de envio, pelos relatórios de monitoramento de pendências e status das
+transmissões, pela consulta aos dados do Gestor, pelo cadastro de exceções e pelo cadastro de domínios; O Transmissor Desktop é
+o aplicativo que efetua a transferência dos arquivos: É feito o preenchimento dos dados de cadastro do usuário do sistema e a
+escolha do arquivo a ser transmitido. A nomenclatura dos arquivos candidatos a transmissão, tem que estar de acordo com os
+critérios: sistema, competência e IBGE preenchidos. Caso algum desses campos não tenha sido preenchido corretamente, o
+sistema não exibirá o arquivo correto a ser selecionado para o envio.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável: DRAC - Departamento de Regulação, Avaliação e Controle de Sistemas
+Linguagem de Programação: JAVA
+Banco de Dados: ORACLE 11G
+
+
+USVN
+USVN
+O sistema é responsável por gerenciar o repositório do controle de versão baseado no Subversion (SVN).
+É possível gerenciar projetos, seus grupos de acesso e usuários.
+padrões do DATASUS.
+Algumas customizações foram realizadas para que ﬁcasse aderente ao padrão de documentação de Projetos deﬁnida pela
+Coordenação Geral de Gestão de Projetos (CGGP).
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: CDESI - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS INTERNOS DO DATASUS
+Linguagem de Programação: PHP
+Banco de Dados: MYSQL 5
+
+VERSIA
+Verificação do Sistema de Informações Ambulatoriais
+Sistema descentralizado responsável pela veriﬁcação das informações geradas pelo sistema SIASUS, através de dados referentes
+ao atendimento dos pacientes, enviados pelas Unidades Prestadoras de Serviço. É utilizado e atualizado mensalmente pelo
+DATASUS, inclusive para nova validação de movimento ambulatorial recebido das Secretarias (Municipais e Estaduais) que
+operam o SIASUS;
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE ATENÇÃO À SAÚDE - SAS
+Unidade Responsável:
+Linguagem de Programação: DELPHI
+Banco de Dados: FIREBIRD
+
+VETORES MALARIA
+Sistema de informação e Controle dos Vetores
+O Sistema de Informação de Vigilância Entomológica e Controle de Vetores, em seu módulo para malária (Vetores-Malária), é o
+sistema utilizado pelo Programa Nacional de Controle da Malária em todas as suas esferas de governo para registrar os dados de
+vigilância entomológica e controle vetorial no que se refere à malária, como parte integrante do Sistema Nacional de Vigilância em
+Saúde.
+Este sistema tem como objetivo registrar a presença e comportamento da fauna de vetores imaturos e adultos, obter dados para
+análise da efetividade das ações de controle vetorial, monitorar o nível de sensibilidade dos anofelinos aos inseticidas usados no
+Programa, registrar as atividades de controle vetorial (controle químico residual e espacial, controle de criadouros, instalação de
+mosquiteiros impregnados de longa duração), fornecer dados para programação de aquisição de inseticidas e insumos, registrar a
+produção dos proﬁssionais de saúde envolvidos nas atividades de vigilância entomológica e controle vetorial.
+Classiﬁcação: SAÚDE
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA DE VIGILÂNCIA EM SAÚDE - SVS
+Unidade Responsável: DEVIT - Departamento de Vigilância das Doenças Transmissíveis
+Linguagem de Programação: AJAX
+Banco de Dados: ORACLE 11G
+
+WIRELESS
+Cadastro de Usuários da rede Wireless Ministério da Saúde
+Sistema para autenticação de usuários na rede do Ministério da Saúde.
+Classiﬁcação: ADMINISTRATIVO
+Tipo do Produto: SISTEMA
+Secretaria: SECRETARIA EXECUTIVA - SE
+Unidade Responsável: CDESI - COORDENAÇÃO DE DESENVOLVIMENTO DOS SISTEMAS INTERNOS DO DATASUS
+Linguagem de Programação:
+Banco de Dados: MYSQL 5
+
+
