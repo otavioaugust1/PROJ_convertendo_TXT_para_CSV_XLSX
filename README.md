@@ -1,5 +1,5 @@
 # PROJ_convertendo_TXT_para_CSV_XLSX
-![img](BASE\convert.png)
+![img](https://github.com/otavioaugust1/PROJ_convertendo_TXT_para_CSV_XLSX/blob/main/BASE/convert.png)
 
 # Conversor de Arquivo TXT para CSV/XLSX
 
