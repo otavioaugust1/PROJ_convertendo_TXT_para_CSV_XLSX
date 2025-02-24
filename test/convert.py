@@ -1,10 +1,11 @@
-
-# Importação das Bibliotecas 
-import pandas as pd
-import re
-import xlsxwriter
-import PySimpleGUI as sg
+# Importação das Bibliotecas
 import os
+import re
+
+import pandas as pd
+import PySimpleGUI as sg
+import xlsxwriter
+
 
 # Função para processar o conteúdo do arquivo e gerar um DataFrame
 def processar_arquivo(txt_path):
@@ -26,15 +27,25 @@ def processar_arquivo(txt_path):
 
         # Preencher o dicionário com as informações
         info['SIGLA'] = linhas[0].strip()  # Primeira linha é a SIGLA
-        info['SISTEMA'] = linhas[1].strip()  # Segunda linha é o nome do SISTEMA
+        info['SISTEMA'] = linhas[
+            1
+        ].strip()  # Segunda linha é o nome do SISTEMA
         info['DESCRIÇÃO'] = linhas[2].strip()  # Terceira linha é a DESCRIÇÃO
 
         # Loop para pegar as demais informações que seguem o formato 'Chave: Valor'
         for linha in linhas[3:]:
-            chave_valor = linha.split(':', 1)  # Dividir na primeira ocorrência de ':'
-            if len(chave_valor) == 2:  # Verificar se a linha está no formato correto
-                chave = chave_valor[0].strip()  # Pegar a chave (antes dos dois pontos)
-                valor = chave_valor[1].strip()  # Pegar o valor (depois dos dois pontos)
+            chave_valor = linha.split(
+                ':', 1
+            )  # Dividir na primeira ocorrência de ':'
+            if (
+                len(chave_valor) == 2
+            ):  # Verificar se a linha está no formato correto
+                chave = chave_valor[
+                    0
+                ].strip()  # Pegar a chave (antes dos dois pontos)
+                valor = chave_valor[
+                    1
+                ].strip()  # Pegar o valor (depois dos dois pontos)
 
                 # Renomear as chaves para corresponder aos nomes das colunas desejadas
                 if chave == 'Classificação':
@@ -54,15 +65,26 @@ def processar_arquivo(txt_path):
         dados_sistemas.append(info)
 
     # Criar um DataFrame com as colunas desejadas
-    colunas = ['SIGLA', 'SISTEMA', 'DESCRIÇÃO', 'CLASSIFICAÇÃO', 'TIPO DE PRODUTO',
-               'SECRETARIA', 'UNIDADE RESPONSÁVEL', 'LINGUAGEM DE PROGRAMAÇÃO', 'BANCO DE DADOS']
+    colunas = [
+        'SIGLA',
+        'SISTEMA',
+        'DESCRIÇÃO',
+        'CLASSIFICAÇÃO',
+        'TIPO DE PRODUTO',
+        'SECRETARIA',
+        'UNIDADE RESPONSÁVEL',
+        'LINGUAGEM DE PROGRAMAÇÃO',
+        'BANCO DE DADOS',
+    ]
     df = pd.DataFrame(dados_sistemas, columns=colunas)
 
     return df
 
+
 # Função para salvar o DataFrame em um arquivo CSV
 def salvar_csv(df, csv_path):
     df.to_csv(csv_path, index=False, encoding='utf-8')
+
 
 # Função para salvar o DataFrame em um arquivo XLSX
 def salvar_xlsx(df, xlsx_path):
@@ -74,11 +96,14 @@ def salvar_xlsx(df, xlsx_path):
 # Layout da interface gráfica usando PySimpleGUI
 layout = [
     [sg.Text('Selecione o arquivo TXT com os dados:')],
-    [sg.Input(key='txt_path'), sg.FileBrowse('Procurar', file_types=(("Text Files", "*.txt"),))],
+    [
+        sg.Input(key='txt_path'),
+        sg.FileBrowse('Procurar', file_types=(('Text Files', '*.txt'),)),
+    ],
     [sg.Text('Escolha o diretório para salvar os arquivos CSV e XLSX:')],
     [sg.Input(key='save_dir'), sg.FolderBrowse('Procurar')],
     [sg.Button('Converter para CSV e XLSX')],
-    [sg.Output(size=(60, 10))]
+    [sg.Output(size=(60, 10))],
 ]
 
 # Criar a janela
@@ -98,7 +123,9 @@ while True:
         save_dir = values['save_dir']
 
         if not txt_path or not save_dir:
-            print("Por favor, selecione o arquivo TXT e o diretório para salvar os arquivos.")
+            print(
+                'Por favor, selecione o arquivo TXT e o diretório para salvar os arquivos.'
+            )
         else:
             try:
                 # Processar o arquivo TXT e gerar o DataFrame
@@ -112,10 +139,12 @@ while True:
                 salvar_csv(df_sistemas, csv_path)
                 salvar_xlsx(df_sistemas, xlsx_path)
 
-                print(f"Arquivos CSV e XLSX criados com sucesso!\nCSV: {csv_path}\nXLSX: {xlsx_path}")
+                print(
+                    f'Arquivos CSV e XLSX criados com sucesso!\nCSV: {csv_path}\nXLSX: {xlsx_path}'
+                )
 
             except Exception as e:
-                print(f"Ocorreu um erro: {e}")
+                print(f'Ocorreu um erro: {e}')
 
 # Fechar a janela
 window.close()
