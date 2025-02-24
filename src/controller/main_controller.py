@@ -1,3 +1,5 @@
+# Script que define o processo de conversão.
+
 import os
 
 from src.models.processador import processar_arquivo, salvar_csv, salvar_xlsx

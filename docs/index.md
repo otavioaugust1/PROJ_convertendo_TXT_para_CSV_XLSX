@@ -1,6 +1,6 @@
 # Conversor de Arquivo TXT para CSV/XLSX
 
-![img](img/convert.png)
+![img](../img/convert.png)
 
 Este projeto é uma ferramenta que converte arquivos de texto (TXT) formatados em tabelas para arquivos CSV e XLSX, utilizando uma interface gráfica simples. A interface permite que o usuário selecione um arquivo TXT, escolha o local para salvar os arquivos de saída e execute a conversão com um clique.
 
@@ -22,14 +22,12 @@ Este projeto é uma ferramenta que converte arquivos de texto (TXT) formatados e
 
 Antes de começar, certifique-se de ter os seguintes requisitos atendidos:
 
-- Python 3 instalado
-- As bibliotecas necessárias instaladas. Você pode instalá-las com os seguintes comandos:
+- Python 3 instalado.
+- As bibliotecas necessárias instaladas. Você pode instalá-las com o seguinte comando:
 
-    ```bash
-    pip install pandas
-    pip install xlsxwriter
-    pip install PySimpleGUI
-    ```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 ## Como Usar
 
@@ -40,23 +38,41 @@ git clone https://github.com/seuusuario/conversor-txt-csv-xlsx.git
 cd conversor-txt-csv-xlsx
 ```
 
-### Execute o script:
+### Instale as dependências:
 
 ```bash
-python conversor.py
+pip install -r requirements.txt
+```
+
+### Execute o projeto:
+
+```bash
+python main.py
 ```
 
 ### Utilize a interface gráfica:
 
-- Na janela, clique no botão "Procurar" para selecionar o arquivo TXT que deseja converter.
-- Escolha a pasta de destino onde os arquivos CSV e XLSX serão salvos.
-- Clique no botão "Converter para CSV e XLSX" para realizar a conversão.
-- A mensagem de sucesso aparecerá na tela com o caminho dos arquivos gerados.
+1. Na janela, clique no botão "Procurar" para selecionar o arquivo TXT que deseja converter.
+2. Escolha a pasta de destino onde os arquivos CSV e XLSX serão salvos.
+3. Clique no botão "Converter para CSV e XLSX" para realizar a conversão.
+4. A mensagem de sucesso aparecerá na tela com o caminho dos arquivos gerados.
 
 ## Estrutura do Projeto
 
-- `conversor.py`: Script principal que contém a lógica para a interface gráfica, leitura do arquivo TXT e geração dos arquivos CSV e XLSX.
-- `README.md`: Este arquivo, contendo as instruções para uso do projeto.
+```
+projeto/
+├── docs/                     # Documentação do projeto
+├── src/                      # Código-fonte
+│   ├── controller/           # Lógica de controle
+│   ├── models/               # Lógica de processamento de dados
+│   └── views/                # Interface gráfica
+├── img/                      # Imagens gerais
+├── tests/                    # Testes com base de exemplo
+├── README.md                 # Documentação principal
+├── requirements.txt          # Dependências do projeto
+├── .gitignore                # Arquivos ignorados pelo Git
+└── main.py                   # Ponto de entrada do projeto
+```
 
 ## Formato Esperado do Arquivo TXT
 
@@ -101,4 +117,3 @@ Se quiser contribuir com o projeto, sinta-se à vontade para abrir issues ou faz
 ## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-

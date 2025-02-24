@@ -1,3 +1,5 @@
+# Esta foi a primeira versão do convertor para realizar teste.
+
 # Importação das Bibliotecas
 import os
 import re

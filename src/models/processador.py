@@ -1,3 +1,5 @@
+# Processo de analise, salvamento, conversão.
+
 import re
 
 import pandas as pd
@@ -40,13 +42,22 @@ def processar_arquivo(txt_path):
         dados_sistemas.append(info)
 
     colunas = [
-        'SIGLA', 'SISTEMA', 'DESCRIÇÃO', 'CLASSIFICAÇÃO', 'TIPO DE PRODUTO',
-        'SECRETARIA', 'UNIDADE RESPONSÁVEL', 'LINGUAGEM DE PROGRAMAÇÃO', 'BANCO DE DADOS'
+        'SIGLA',
+        'SISTEMA',
+        'DESCRIÇÃO',
+        'CLASSIFICAÇÃO',
+        'TIPO DE PRODUTO',
+        'SECRETARIA',
+        'UNIDADE RESPONSÁVEL',
+        'LINGUAGEM DE PROGRAMAÇÃO',
+        'BANCO DE DADOS',
     ]
     return pd.DataFrame(dados_sistemas, columns=colunas)
 
+
 def salvar_csv(df, csv_path):
     df.to_csv(csv_path, index=False, encoding='utf-8')
+
 
 def salvar_xlsx(df, xlsx_path):
     with pd.ExcelWriter(xlsx_path, engine='xlsxwriter') as writer:
